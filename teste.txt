@@ -1,0 +1,2682 @@
+q 120.0 80.0 100.0 60.0 SE1.1
+h HN-SE1.1 170.0 140.0
+h HL-SE1.1 120.0 110.0
+h HS-SE1.1 170.0 80.0
+h HO-SE1.1 220.0 110.0
+e SE1.1 O 20 brecho E1-SE1.1 7392-5326
+e SE1.1 O 45 marcenaria E2-SE1.1 4714-2206
+e SE1.1 O 80 acougue E3-SE1.1 4600-5795
+e SE1.1 L 20 podologia E4-SE1.1 4319-4037
+e SE1.1 L 45 pub E5-SE1.1 5830-9914
+e SE1.1 L 80 tabacaria E6-SE1.1 5663-2928
+m SE1.1 N 20 Henrique679918_da_Silva 1269-8933
+m SE1.1 S 20 Francisco_da_Silva679918 9205-9577
+m SE1.1 N 25 Ana303019_da_Silva 4851-5675
+m SE1.1 S 25 Bruno_da_Silva303019 5323-33
+m SE1.1 N 35 Marina57483_da_Silva 7488-972
+m SE1.1 S 35 Bianca_da_Silva57483 1457-8173
+m SE1.1 N 45 Beatriz360735_da_Silva 9898-5793
+m SE1.1 S 45 Gabriel_da_Silva360735 6327-9472
+m SE1.1 N 55 Gabriela667828_da_Silva 3325-7154
+m SE1.1 S 55 Pedro_Henrique_da_Silva667828 7394-9305
+m SE1.1 N 70 Camila307807_da_Silva 5250-416
+m SE1.1 S 70 Heidi_da_Silva307807 5504-2754
+m SE1.1 N 85 Olavo85098_da_Silva 4908-9674
+m SE1.1 S 85 Karina_da_Silva85098 1233-8370
+q 230.0 80.0 100.0 60.0 SE1.2
+h HN-SE1.2 280.0 140.0
+h HL-SE1.2 230.0 110.0
+e SE1.2 O 20 papelaria E1-SE1.2 9282-8457
+e SE1.2 O 45 restaurante E2-SE1.2 2592-2143
+e SE1.2 O 80 posto_de_abastecimento E3-SE1.2 1965-4280
+e SE1.2 L 20 quitanda E4-SE1.2 4903-5662
+e SE1.2 L 45 taberna E5-SE1.2 6201-1707
+e SE1.2 L 80 petshop E6-SE1.2 1285-9870
+m SE1.2 N 20 Larissa298357_da_Silva 7750-6127
+m SE1.2 S 20 Mateus_da_Silva298357 3428-6314
+m SE1.2 N 25 Micaela801521_da_Silva 4501-5591
+m SE1.2 S 25 Joana_da_Silva801521 9037-848
+m SE1.2 N 35 Mateus935347_da_Silva 8993-9474
+m SE1.2 S 35 Amanda_da_Silva935347 9550-7353
+m SE1.2 N 45 Micaela415652_da_Silva 7330-9353
+m SE1.2 S 45 Joao_da_Silva415652 8242-2164
+m SE1.2 N 55 Sara622334_da_Silva 3476-7416
+m SE1.2 S 55 Melissa_da_Silva622334 3483-7855
+m SE1.2 N 70 Laura46241_da_Silva 4020-7953
+m SE1.2 S 70 Caio_da_Silva46241 2345-8732
+m SE1.2 N 85 Flavio62642_da_Silva 8976-2509
+m SE1.2 S 85 Clara_da_Silva62642 4575-328
+q 340.0 80.0 100.0 60.0 SE1.3
+h HN-SE1.3 390.0 140.0
+h HL-SE1.3 340.0 110.0
+e SE1.3 O 20 papelaria E1-SE1.3 1165-9141
+e SE1.3 O 45 escola_idiomas E2-SE1.3 6286-4071
+e SE1.3 O 80 livraria E3-SE1.3 2299-6721
+e SE1.3 L 20 bar E4-SE1.3 7971-9168
+e SE1.3 L 45 lava_rapido E5-SE1.3 9778-1580
+e SE1.3 L 80 atacadista E6-SE1.3 3423-9310
+m SE1.3 N 20 Mia861894_da_Silva 9959-1467
+m SE1.3 S 20 Jose_da_Silva861894 7803-3699
+m SE1.3 N 25 Silene518637_da_Silva 7578-773
+m SE1.3 S 25 Beatriz_da_Silva518637 6581-2795
+m SE1.3 N 35 Heidi534697_da_Silva 4253-2605
+m SE1.3 S 35 Brunswichk_da_Silva534697 7222-4181
+m SE1.3 N 45 Luiz_Felipe960555_da_Silva 8708-4193
+m SE1.3 S 45 Silene_da_Silva960555 7833-5158
+m SE1.3 N 55 Nadir998225_da_Silva 1753-8655
+m SE1.3 S 55 Francisco_da_Silva998225 4564-2488
+m SE1.3 N 70 Camila585808_da_Silva 8752-9772
+m SE1.3 S 70 Heidi_da_Silva585808 2420-7419
+m SE1.3 N 85 Iara83545_da_Silva 4904-373
+m SE1.3 S 85 Rafael_da_Silva83545 1724-1115
+q 450.0 80.0 100.0 60.0 SE1.4
+t RB-SE1.4 500.0 110.0
+e SE1.4 O 20 vidracaria E1-SE1.4 6429-2239
+e SE1.4 O 45 grafica E2-SE1.4 5919-1948
+e SE1.4 O 80 drogaria E3-SE1.4 3251-560
+e SE1.4 L 20 clinica E4-SE1.4 2261-1834
+e SE1.4 L 45 drogaria E5-SE1.4 2097-5221
+e SE1.4 L 80 cafeteria E6-SE1.4 8637-9835
+m SE1.4 N 20 Gabriel274772_da_Silva 8321-2558
+m SE1.4 S 20 Artur_da_Silva274772 2412-2746
+m SE1.4 N 25 Rita244055_da_Silva 2721-3154
+m SE1.4 S 25 Maria_da_Silva244055 2371-5487
+m SE1.4 N 35 Catarina995759_da_Silva 8732-6154
+m SE1.4 S 35 Beatriz_da_Silva995759 1351-5597
+m SE1.4 N 45 Tiago16233_da_Silva 6629-1441
+m SE1.4 S 45 Brunswichk_da_Silva16233 4858-9076
+m SE1.4 N 55 Nicole754395_da_Silva 1784-2212
+m SE1.4 S 55 Miguel_da_Silva754395 7301-5088
+m SE1.4 N 70 Nadir142844_da_Silva 6296-2055
+m SE1.4 S 70 Carlos_Eduardo_da_Silva142844 3819-1050
+m SE1.4 N 85 Isis210209_da_Silva 9794-1231
+m SE1.4 S 85 Isis_da_Silva210209 3491-4382
+q 560.0 80.0 100.0 60.0 SE1.5
+e SE1.5 O 20 sebo E1-SE1.5 2775-3553
+e SE1.5 O 45 borracharia E2-SE1.5 9205-2782
+e SE1.5 O 80 contabilidade E3-SE1.5 5193-4910
+e SE1.5 L 20 sorveteria E4-SE1.5 5963-7970
+e SE1.5 L 45 cabeleleiro E5-SE1.5 6833-3901
+e SE1.5 L 80 petshop E6-SE1.5 1421-6059
+m SE1.5 N 20 Berta23080_da_Silva 8782-3438
+m SE1.5 S 20 Clara_da_Silva23080 1375-6442
+m SE1.5 N 25 Amanda149798_da_Silva 7623-1802
+m SE1.5 S 25 Pedro_da_Silva149798 4887-7487
+m SE1.5 N 35 Larissa213538_da_Silva 1314-5113
+m SE1.5 S 35 Joao_da_Silva213538 5631-4002
+m SE1.5 N 45 Rutger110392_da_Silva 1924-9081
+m SE1.5 S 45 Berta_da_Silva110392 2674-9108
+m SE1.5 N 55 Pedro Henrique435423_da_Silva 2241-9337
+m SE1.5 S 55 Antonio_da_Silva435423 3618-6018
+m SE1.5 N 70 Amanda27627_da_Silva 3343-5779
+m SE1.5 S 70 Gabriel_da_Silva27627 6231-5115
+m SE1.5 N 85 Jose232317_da_Silva 5529-8749
+m SE1.5 S 85 Micaela_da_Silva232317 6862-6929
+q 670.0 80.0 100.0 60.0 SE1.6
+e SE1.6 O 20 papelaria E1-SE1.6 3949-5054
+e SE1.6 O 45 restaurante E2-SE1.6 7078-7357
+e SE1.6 O 80 agencia_de_viagem E3-SE1.6 2607-5285
+e SE1.6 L 20 vidracaria E4-SE1.6 1373-648
+e SE1.6 L 45 supermercado E5-SE1.6 5296-6862
+e SE1.6 L 80 mercado_municipal E6-SE1.6 3862-4776
+m SE1.6 N 20 Olavo389806_da_Silva 9396-2572
+m SE1.6 S 20 Pedro_da_Silva389806 3323-750
+m SE1.6 N 25 Silvio209186_da_Silva 3275-4374
+m SE1.6 S 25 Eduardo_da_Silva209186 5411-6341
+m SE1.6 N 35 Berta740907_da_Silva 2238-264
+m SE1.6 S 35 Amanda_da_Silva740907 4195-5825
+m SE1.6 N 45 Olavo522708_da_Silva 8057-719
+m SE1.6 S 45 Clara_da_Silva522708 4932-4743
+m SE1.6 N 55 Pedro Henrique651850_da_Silva 4213-9900
+m SE1.6 S 55 Rutger_da_Silva651850 5009-8615
+m SE1.6 N 70 Mateus505161_da_Silva 9999-8802
+m SE1.6 S 70 Pedro Henrique_da_Silva505161 5189-9453
+m SE1.6 N 85 Luiz_Felipe306991_da_Silva 7026-1083
+m SE1.6 S 85 Catarina_da_Silva306991 2309-6489
+q 780.0 80.0 100.0 60.0 SE1.7
+h HN-SE1.7 830.0 140.0
+h HL-SE1.7 780.0 110.0
+h HS-SE1.7 830.0 80.0
+h HO-SE1.7 880.0 110.0
+e SE1.7 O 20 lavanderia E1-SE1.7 6231-2585
+e SE1.7 O 45 farmacia E2-SE1.7 4800-2570
+e SE1.7 O 80 casa_noturna E3-SE1.7 6739-8381
+e SE1.7 L 20 loja_de_conveniencia E4-SE1.7 5207-9070
+e SE1.7 L 45 concessionaria_automoveis E5-SE1.7 2763-8955
+e SE1.7 L 80 drogaria E6-SE1.7 5061-4885
+m SE1.7 N 20 Caio964886_da_Silva 1321-584
+m SE1.7 S 20 Gabriel_da_Silva964886 6646-1519
+m SE1.7 N 25 Larissa759511_da_Silva 9817-1793
+m SE1.7 S 25 Catarina_da_Silva759511 7311-4639
+m SE1.7 N 35 Jose726141_da_Silva 8830-5778
+m SE1.7 S 35 Pedro_da_Silva726141 4780-2429
+m SE1.7 N 45 Camila938180_da_Silva 7053-7552
+m SE1.7 S 45 Melissa_da_Silva938180 1927-8714
+m SE1.7 N 55 Sara346960_da_Silva 7831-9795
+m SE1.7 S 55 Micaela_da_Silva346960 9843-5573
+m SE1.7 N 70 Rafael877571_da_Silva 6932-8179
+m SE1.7 S 70 Gabriel_da_Silva877571 1909-5892
+m SE1.7 N 85 Jose277941_da_Silva 9743-110
+m SE1.7 S 85 Gabriel_da_Silva277941 6226-5834
+q 890.0 80.0 100.0 60.0 SE1.8
+t RB-SE1.8 940.0 110.0
+h HN-SE1.8 940.0 140.0
+h HL-SE1.8 890.0 110.0
+e SE1.8 O 20 serralheria E1-SE1.8 2773-26
+e SE1.8 O 45 pastelaria E2-SE1.8 7696-6679
+e SE1.8 O 80 tabacaria E3-SE1.8 3113-4125
+e SE1.8 L 20 sebo E4-SE1.8 5367-2751
+e SE1.8 L 45 alfaiataria E5-SE1.8 2600-3523
+e SE1.8 L 80 imobiliaria E6-SE1.8 7020-8705
+m SE1.8 N 20 Maria404168_da_Silva 9879-2293
+m SE1.8 S 20 Nadir_da_Silva404168 1194-5953
+m SE1.8 N 25 Beatriz900127_da_Silva 9946-4601
+m SE1.8 S 25 Flavio_da_Silva900127 3248-5028
+m SE1.8 N 35 Beatriz90895_da_Silva 4191-8348
+m SE1.8 S 35 Bianca_da_Silva90895 8801-2891
+m SE1.8 N 45 Debora679513_da_Silva 1963-941
+m SE1.8 S 45 Nicole_da_Silva679513 7619-1954
+m SE1.8 N 55 Amanda787165_da_Silva 6457-4739
+m SE1.8 S 55 Miguel_da_Silva787165 3067-8104
+m SE1.8 N 70 Gabriel269446_da_Silva 2763-5284
+m SE1.8 S 70 Fernanda_da_Silva269446 2421-5368
+m SE1.8 N 85 Camila561957_da_Silva 8480-3844
+m SE1.8 S 85 Tais_da_Silva561957 4863-2221
+q 1000.0 80.0 100.0 60.0 SE1.9
+e SE1.9 O 20 papelaria E1-SE1.9 2412-9573
+e SE1.9 O 45 lava_rapido E2-SE1.9 3987-466
+e SE1.9 O 80 sapataria E3-SE1.9 9618-8164
+e SE1.9 L 20 gibeteria E4-SE1.9 5798-1005
+e SE1.9 L 45 quiosque E5-SE1.9 8264-7900
+e SE1.9 L 80 agencia_de_viagem E6-SE1.9 2100-5727
+m SE1.9 N 20 Bruno690732_da_Silva 6101-8073
+m SE1.9 S 20 Paulo_da_Silva690732 3862-8219
+m SE1.9 N 25 Mia593603_da_Silva 7596-118
+m SE1.9 S 25 Sara_da_Silva593603 9385-1942
+m SE1.9 N 35 Joana23099_da_Silva 2089-7298
+m SE1.9 S 35 Luiz_Felipe_da_Silva23099 6647-4041
+m SE1.9 N 45 Bruno466792_da_Silva 5855-9902
+m SE1.9 S 45 Eduardo_da_Silva466792 4174-7687
+m SE1.9 N 55 Pedro639444_da_Silva 6349-441
+m SE1.9 S 55 Pedro Henrique_da_Silva639444 9420-1610
+m SE1.9 N 70 Daniel432868_da_Silva 8591-6219
+m SE1.9 S 70 Brunswichk_da_Silva432868 4011-8605
+m SE1.9 N 85 Bernardo419694_da_Silva 2342-7710
+m SE1.9 S 85 Camila_da_Silva419694 3852-607
+q 1110.0 80.0 100.0 60.0 SE1.10
+e SE1.10 O 20 xerox E1-SE1.10 4150-7765
+e SE1.10 O 45 casa_noturna E2-SE1.10 9693-6201
+e SE1.10 O 80 drogaria E3-SE1.10 7429-5265
+e SE1.10 L 20 mercearia E4-SE1.10 7956-1421
+e SE1.10 L 45 alfaiataria E5-SE1.10 6823-5212
+e SE1.10 L 80 academia E6-SE1.10 2070-679
+m SE1.10 N 20 Isis501057_da_Silva 9653-1347
+m SE1.10 S 20 Jose_da_Silva501057 6710-6732
+m SE1.10 N 25 Beatriz978112_da_Silva 1809-7911
+m SE1.10 S 25 Melissa_da_Silva978112 7234-4671
+m SE1.10 N 35 Antonio213759_da_Silva 2631-5906
+m SE1.10 S 35 Carlos_Eduardo_da_Silva213759 8865-7906
+m SE1.10 N 45 Berta329009_da_Silva 6930-2130
+m SE1.10 S 45 Eduardo_da_Silva329009 6548-9121
+m SE1.10 N 55 Benjamim721562_da_Silva 2334-1532
+m SE1.10 S 55 Isis_da_Silva721562 3515-8941
+m SE1.10 N 70 Silvio432728_da_Silva 4812-9095
+m SE1.10 S 70 Amanda_da_Silva432728 1943-3195
+m SE1.10 N 85 Miguel435189_da_Silva 5767-1658
+m SE1.10 S 85 Benjamim_da_Silva435189 3522-654
+q 120.0 150.0 100.0 60.0 SE2.1
+e SE2.1 O 20 agencia_de_viagem E1-SE2.1 7156-9696
+e SE2.1 O 45 agencia_de_viagem E2-SE2.1 6840-5702
+e SE2.1 O 80 cabeleleiro E3-SE2.1 6362-3371
+e SE2.1 L 20 sapataria E4-SE2.1 8509-6876
+e SE2.1 L 45 quiosque E5-SE2.1 2257-7494
+e SE2.1 L 80 xerox E6-SE2.1 5278-7222
+m SE2.1 N 20 Joao154578_da_Silva 2406-9482
+m SE2.1 S 20 Silvio_da_Silva154578 1397-2151
+m SE2.1 N 25 Daniel886940_da_Silva 9648-8208
+m SE2.1 S 25 Tiago_da_Silva886940 9241-5362
+m SE2.1 N 35 Camila185425_da_Silva 1011-1208
+m SE2.1 S 35 Gabriel_da_Silva185425 9676-5923
+m SE2.1 N 45 Rafael902765_da_Silva 6374-3455
+m SE2.1 S 45 Pedro_da_Silva902765 8272-1569
+m SE2.1 N 55 Bruno194138_da_Silva 7500-2334
+m SE2.1 S 55 Fernanda_da_Silva194138 1880-6978
+m SE2.1 N 70 Antonio435951_da_Silva 4220-8850
+m SE2.1 S 70 Brunswichk_da_Silva435951 6654-8561
+m SE2.1 N 85 Caio411384_da_Silva 2701-5073
+m SE2.1 S 85 Josefa_da_Silva411384 5200-6610
+q 230.0 150.0 100.0 60.0 SE2.2
+h HN-SE2.2 280.0 210.0
+h HL-SE2.2 230.0 180.0
+e SE2.2 O 20 petshop E1-SE2.2 6634-9481
+e SE2.2 O 45 galeria_de_arte E2-SE2.2 9945-528
+e SE2.2 O 80 serralheria E3-SE2.2 2136-5879
+e SE2.2 L 20 lavanderia E4-SE2.2 2770-7084
+e SE2.2 L 45 antiquario E5-SE2.2 3340-5671
+e SE2.2 L 80 cinema E6-SE2.2 7039-4357
+m SE2.2 N 20 Silene754624_da_Silva 2633-5266
+m SE2.2 S 20 Gabriel_da_Silva754624 6110-8448
+m SE2.2 N 25 Clara530095_da_Silva 1962-6723
+m SE2.2 S 25 Silene_da_Silva530095 9442-6371
+m SE2.2 N 35 Debora858424_da_Silva 4929-7410
+m SE2.2 S 35 Mateus_da_Silva858424 4048-7033
+m SE2.2 N 45 Laura540419_da_Silva 9745-5
+m SE2.2 S 45 Caio_da_Silva540419 2494-7289
+m SE2.2 N 55 Olavo567526_da_Silva 9974-7089
+m SE2.2 S 55 Iara_da_Silva567526 8065-6651
+m SE2.2 N 70 Tiago767772_da_Silva 9001-4454
+m SE2.2 S 70 Enzo_da_Silva767772 6213-9458
+m SE2.2 N 85 Bianca799068_da_Silva 8494-6398
+m SE2.2 S 85 Helio_da_Silva799068 1010-180
+q 340.0 150.0 100.0 60.0 SE2.3
+h HN-SE2.3 390.0 210.0
+h HL-SE2.3 340.0 180.0
+e SE2.3 O 20 mercearia E1-SE2.3 9791-4340
+e SE2.3 O 45 boutique E2-SE2.3 5092-26
+e SE2.3 O 80 escola_idiomas E3-SE2.3 6218-8411
+e SE2.3 L 20 atacadista E4-SE2.3 5873-9243
+e SE2.3 L 45 loja E5-SE2.3 7068-8136
+e SE2.3 L 80 quitanda E6-SE2.3 9270-1610
+m SE2.3 N 20 Zelia240642_da_Silva 5356-6591
+m SE2.3 S 20 Artur_da_Silva240642 9219-9610
+m SE2.3 N 25 Micaela82105_da_Silva 9763-8075
+m SE2.3 S 25 Silene_da_Silva82105 8337-1313
+m SE2.3 N 35 Camila411353_da_Silva 5910-5180
+m SE2.3 S 35 Flavio_da_Silva411353 1878-8131
+m SE2.3 N 45 Caio223843_da_Silva 9878-9190
+m SE2.3 S 45 Gabriel_da_Silva223843 4695-4273
+m SE2.3 N 55 Silene986206_da_Silva 3858-9102
+m SE2.3 S 55 Pedro_da_Silva986206 4843-3410
+m SE2.3 N 70 Mateus85363_da_Silva 9126-3932
+m SE2.3 S 70 Mariana_da_Silva85363 6093-3846
+m SE2.3 N 85 Olavo742080_da_Silva 1868-4358
+m SE2.3 S 85 Marina_da_Silva742080 6059-3803
+q 450.0 150.0 100.0 60.0 SE2.4
+e SE2.4 O 20 papelaria E1-SE2.4 7114-5330
+e SE2.4 O 45 tabacaria E2-SE2.4 2739-1729
+e SE2.4 O 80 lava_rapido E3-SE2.4 2297-689
+e SE2.4 L 20 bar E4-SE2.4 9984-848
+e SE2.4 L 45 loja_de_departamento E5-SE2.4 5869-4022
+e SE2.4 L 80 casa_noturna E6-SE2.4 9275-9358
+m SE2.4 N 20 Rita150532_da_Silva 6161-6629
+m SE2.4 S 20 Catarina_da_Silva150532 4117-7303
+m SE2.4 N 25 Pedro886753_da_Silva 8718-2851
+m SE2.4 S 25 Helio_da_Silva886753 2844-6498
+m SE2.4 N 35 Rita280020_da_Silva 3967-3233
+m SE2.4 S 35 Olavo_da_Silva280020 4368-5985
+m SE2.4 N 45 Bianca424660_da_Silva 4391-5063
+m SE2.4 S 45 Henrique_da_Silva424660 8183-7400
+m SE2.4 N 55 Gabriel581856_da_Silva 1629-3208
+m SE2.4 S 55 Sara_da_Silva581856 1714-7320
+m SE2.4 N 70 Larissa557648_da_Silva 4485-2414
+m SE2.4 S 70 Bernardo_da_Silva557648 3342-8505
+m SE2.4 N 85 Pedro231310_da_Silva 8731-5523
+m SE2.4 S 85 Mariana_da_Silva231310 5295-2289
+q 560.0 150.0 100.0 60.0 SE2.5
+e SE2.5 O 20 xerox E1-SE2.5 2359-9171
+e SE2.5 O 45 oficina_eletronica E2-SE2.5 9877-63
+e SE2.5 O 80 supermercado E3-SE2.5 3887-7877
+e SE2.5 L 20 marcenaria E4-SE2.5 4515-2323
+e SE2.5 L 45 farmacia E5-SE2.5 2431-8153
+e SE2.5 L 80 sapataria E6-SE2.5 2371-8429
+m SE2.5 N 20 Fernanda218593_da_Silva 3213-9565
+m SE2.5 S 20 Daniel_da_Silva218593 8779-7385
+m SE2.5 N 25 Iara921287_da_Silva 6569-7850
+m SE2.5 S 25 Larissa_da_Silva921287 3392-6232
+m SE2.5 N 35 Camila441038_da_Silva 2498-8516
+m SE2.5 S 35 Joao_da_Silva441038 3588-4976
+m SE2.5 N 45 Ana855684_da_Silva 7087-5581
+m SE2.5 S 45 Karina_da_Silva855684 8845-9838
+m SE2.5 N 55 Joao673676_da_Silva 9136-2547
+m SE2.5 S 55 Benjamim_da_Silva673676 6118-7247
+m SE2.5 N 70 Gabriel495082_da_Silva 8367-7148
+m SE2.5 S 70 Silvio_da_Silva495082 2189-6431
+m SE2.5 N 85 Bernardo658517_da_Silva 7033-4205
+m SE2.5 S 85 Amanda_da_Silva658517 2334-8447
+q 670.0 150.0 100.0 60.0 SE2.6
+e SE2.6 O 20 emporio E1-SE2.6 8767-747
+e SE2.6 O 45 marcenaria E2-SE2.6 8252-6652
+e SE2.6 O 80 loja_de_departamento E3-SE2.6 2728-7887
+e SE2.6 L 20 cafeteria E4-SE2.6 9819-3919
+e SE2.6 L 45 bazar E5-SE2.6 3768-7543
+e SE2.6 L 80 otica E6-SE2.6 2346-2309
+m SE2.6 N 20 Josefa299958_da_Silva 6643-1464
+m SE2.6 S 20 Clara_da_Silva299958 9482-2185
+m SE2.6 N 25 Catarina196655_da_Silva 9046-8136
+m SE2.6 S 25 Rafael_da_Silva196655 5468-813
+m SE2.6 N 35 Debora228365_da_Silva 4382-5001
+m SE2.6 S 35 Gabriel_da_Silva228365 2476-7780
+m SE2.6 N 45 Joao149987_da_Silva 8920-8826
+m SE2.6 S 45 Micaela_da_Silva149987 9448-1474
+m SE2.6 N 55 Mariana335258_da_Silva 6710-561
+m SE2.6 S 55 Nadir_da_Silva335258 9747-7323
+m SE2.6 N 70 Micaela404545_da_Silva 2335-6349
+m SE2.6 S 70 Zelia_da_Silva404545 6871-4098
+m SE2.6 N 85 Daniel577686_da_Silva 4833-9527
+m SE2.6 S 85 Tais_da_Silva577686 2658-3354
+q 780.0 150.0 100.0 60.0 SE2.7
+e SE2.7 O 20 farmacia E1-SE2.7 5343-5945
+e SE2.7 O 45 salao_de_beleza E2-SE2.7 3382-6996
+e SE2.7 O 80 emporio E3-SE2.7 2842-7596
+e SE2.7 L 20 banco_de_jornal E4-SE2.7 8866-8475
+e SE2.7 L 45 farmacia E5-SE2.7 7905-3325
+e SE2.7 L 80 loterica E6-SE2.7 4627-834
+m SE2.7 N 20 Luiz_Felipe515661_da_Silva 3076-8437
+m SE2.7 S 20 Paulo_da_Silva515661 8169-1122
+m SE2.7 N 25 Larissa773859_da_Silva 3253-6809
+m SE2.7 S 25 Ana_da_Silva773859 2796-7554
+m SE2.7 N 35 Debora201707_da_Silva 1124-5773
+m SE2.7 S 35 Catarina_da_Silva201707 1939-7675
+m SE2.7 N 45 Melissa110306_da_Silva 3346-4827
+m SE2.7 S 45 Eduardo_da_Silva110306 3141-3041
+m SE2.7 N 55 Heidi51462_da_Silva 3319-639
+m SE2.7 S 55 Sara_da_Silva51462 5061-6771
+m SE2.7 N 70 Brunswichk634432_da_Silva 5664-7041
+m SE2.7 S 70 Rutger_da_Silva634432 8385-2983
+m SE2.7 N 85 Gabriel131549_da_Silva 5501-6740
+m SE2.7 S 85 Caio_da_Silva131549 3039-6976
+q 890.0 150.0 100.0 60.0 SE2.8
+e SE2.8 O 20 joalheria E1-SE2.8 2493-2366
+e SE2.8 O 45 advocacia E2-SE2.8 1110-364
+e SE2.8 O 80 imobiliaria E3-SE2.8 2791-8873
+e SE2.8 L 20 cabeleleiro E4-SE2.8 8601-883
+e SE2.8 L 45 brecho E5-SE2.8 6717-9841
+e SE2.8 L 80 loja_de_brinquedos E6-SE2.8 3988-1726
+m SE2.8 N 20 Larissa340915_da_Silva 9513-760
+m SE2.8 S 20 Artur_da_Silva340915 3721-2206
+m SE2.8 N 25 Ana338215_da_Silva 6160-1142
+m SE2.8 S 25 Helio_da_Silva338215 9160-6955
+m SE2.8 N 35 Debora821198_da_Silva 5738-3084
+m SE2.8 S 35 Catarina_da_Silva821198 6161-4665
+m SE2.8 N 45 Laura489284_da_Silva 4160-4371
+m SE2.8 S 45 Helio_da_Silva489284 5086-1175
+m SE2.8 N 55 Melissa857127_da_Silva 6391-8288
+m SE2.8 S 55 Bruno_da_Silva857127 9365-3802
+m SE2.8 N 70 Bruno283587_da_Silva 1416-5733
+m SE2.8 S 70 Brunswichk_da_Silva283587 8791-3768
+m SE2.8 N 85 Karina561436_da_Silva 1495-5534
+m SE2.8 S 85 Carlos_Eduardo_da_Silva561436 2213-209
+q 1000.0 150.0 100.0 60.0 SE2.9
+h HN-SE2.9 1050.0 210.0
+h HL-SE2.9 1000.0 180.0
+e SE2.9 O 20 sorveteria E1-SE2.9 6446-6552
+e SE2.9 O 45 bazar E2-SE2.9 8223-9891
+e SE2.9 O 80 galeria_de_arte E3-SE2.9 4270-8150
+e SE2.9 L 20 atacadista E4-SE2.9 9156-1708
+e SE2.9 L 45 galeria_de_arte E5-SE2.9 4195-138
+e SE2.9 L 80 lavanderia E6-SE2.9 7528-4255
+m SE2.9 N 20 Silvio540453_da_Silva 2386-8041
+m SE2.9 S 20 Iara_da_Silva540453 2023-4404
+m SE2.9 N 25 Laura836289_da_Silva 8620-4412
+m SE2.9 S 25 Ana_da_Silva836289 6124-8225
+m SE2.9 N 35 Bernardo830395_da_Silva 4817-261
+m SE2.9 S 35 Bianca_da_Silva830395 1568-722
+m SE2.9 N 45 Maria604128_da_Silva 5194-4898
+m SE2.9 S 45 Gabriel_da_Silva604128 5248-3058
+m SE2.9 N 55 Ursula424199_da_Silva 1051-7630
+m SE2.9 S 55 Pedro_da_Silva424199 3761-1274
+m SE2.9 N 70 Karina642766_da_Silva 7289-7032
+m SE2.9 S 70 Flavio_da_Silva642766 5864-6612
+m SE2.9 N 85 Ana851539_da_Silva 6047-8022
+m SE2.9 S 85 Zelia_da_Silva851539 6126-7954
+q 1110.0 150.0 100.0 60.0 SE2.10
+e SE2.10 O 20 casa_noturna E1-SE2.10 9065-6569
+e SE2.10 O 45 podologia E2-SE2.10 8494-5562
+e SE2.10 O 80 padaria E3-SE2.10 4053-7668
+e SE2.10 L 20 loja_de_conveniencia E4-SE2.10 5336-5879
+e SE2.10 L 45 quitanda E5-SE2.10 2629-1766
+e SE2.10 L 80 sapataria E6-SE2.10 5150-3047
+m SE2.10 N 20 Daniel257040_da_Silva 5270-6277
+m SE2.10 S 20 Rafael_da_Silva257040 1785-7938
+m SE2.10 N 25 Jose217047_da_Silva 2869-7505
+m SE2.10 S 25 Rutger_da_Silva217047 4115-7204
+m SE2.10 N 35 Joao681639_da_Silva 7080-7795
+m SE2.10 S 35 Bernardo_da_Silva681639 6867-9355
+m SE2.10 N 45 Olavo528456_da_Silva 6083-1802
+m SE2.10 S 45 Enzo_da_Silva528456 1280-9831
+m SE2.10 N 55 Marina673737_da_Silva 3760-1441
+m SE2.10 S 55 Clara_da_Silva673737 5036-141
+m SE2.10 N 70 Nicole55764_da_Silva 7701-3149
+m SE2.10 S 70 Joao_da_Silva55764 4341-303
+m SE2.10 N 85 Fernanda629646_da_Silva 7692-6937
+m SE2.10 S 85 Ursula_da_Silva629646 9362-6246
+q 120.0 220.0 100.0 60.0 SE3.1
+h HN-SE3.1 170.0 280.0
+h HL-SE3.1 120.0 250.0
+e SE3.1 O 20 escola_bale E1-SE3.1 8652-56
+e SE3.1 O 45 cabeleleiro E2-SE3.1 6032-691
+e SE3.1 O 80 antiquario E3-SE3.1 1849-4002
+e SE3.1 L 20 quitanda E4-SE3.1 6585-8394
+e SE3.1 L 45 marcenaria E5-SE3.1 9443-4133
+e SE3.1 L 80 funeraria E6-SE3.1 7952-3718
+m SE3.1 N 20 Ana778116_da_Silva 4012-4568
+m SE3.1 S 20 Henrique_da_Silva778116 2617-7961
+m SE3.1 N 25 Laura843097_da_Silva 1910-5633
+m SE3.1 S 25 Silene_da_Silva843097 8854-3159
+m SE3.1 N 35 Mia248303_da_Silva 6621-7357
+m SE3.1 S 35 Nadir_da_Silva248303 5394-7235
+m SE3.1 N 45 Carlos_Eduardo586947_da_Silva 6210-8614
+m SE3.1 S 45 Sara_da_Silva586947 3059-6731
+m SE3.1 N 55 Miguel19917_da_Silva 4361-2474
+m SE3.1 S 55 Eduardo_da_Silva19917 1096-113
+m SE3.1 N 70 Caio779965_da_Silva 8092-3259
+m SE3.1 S 70 Catarina_da_Silva779965 7760-8331
+m SE3.1 N 85 Silvio226296_da_Silva 7438-2584
+m SE3.1 S 85 Eduardo_da_Silva226296 6251-766
+q 230.0 220.0 100.0 60.0 SE3.2
+e SE3.2 O 20 bicicletaria E1-SE3.2 9134-5477
+e SE3.2 O 45 grafica E2-SE3.2 5450-3336
+e SE3.2 O 80 boutique E3-SE3.2 2491-7716
+e SE3.2 L 20 escola_bale E4-SE3.2 3189-479
+e SE3.2 L 45 pastelaria E5-SE3.2 4104-3062
+e SE3.2 L 80 galeria_de_arte E6-SE3.2 4165-4118
+m SE3.2 N 20 Melissa829204_da_Silva 3878-7750
+m SE3.2 S 20 Karina_da_Silva829204 4506-4
+m SE3.2 N 25 Enzo881959_da_Silva 6798-8134
+m SE3.2 S 25 Melissa_da_Silva881959 8250-9600
+m SE3.2 N 35 Melissa364603_da_Silva 1959-4877
+m SE3.2 S 35 Tais_da_Silva364603 8627-7758
+m SE3.2 N 45 Nicole369099_da_Silva 9636-6496
+m SE3.2 S 45 Brunswichk_da_Silva369099 1225-2797
+m SE3.2 N 55 Rita362011_da_Silva 4999-1686
+m SE3.2 S 55 Marina_da_Silva362011 4382-9120
+m SE3.2 N 70 Larissa548747_da_Silva 1218-3390
+m SE3.2 S 70 Rutger_da_Silva548747 4772-8982
+m SE3.2 N 85 Pedro437302_da_Silva 1546-7864
+m SE3.2 S 85 Antonio_da_Silva437302 7318-8878
+q 340.0 220.0 100.0 60.0 SE3.3
+e SE3.3 O 20 supermercado E1-SE3.3 9488-8169
+e SE3.3 O 45 serralheria E2-SE3.3 6875-3188
+e SE3.3 O 80 alfaiataria E3-SE3.3 6655-5928
+e SE3.3 L 20 casa_noturna E4-SE3.3 1189-4107
+e SE3.3 L 45 clinica E5-SE3.3 6450-3407
+e SE3.3 L 80 contabilidade E6-SE3.3 6928-683
+m SE3.3 N 20 Beatriz762025_da_Silva 9331-1292
+m SE3.3 S 20 Josefa_da_Silva762025 8037-8228
+m SE3.3 N 25 Nadir752222_da_Silva 7983-6061
+m SE3.3 S 25 Rutger_da_Silva752222 9666-2891
+m SE3.3 N 35 Helio696166_da_Silva 5063-4674
+m SE3.3 S 35 Flavio_da_Silva696166 3336-7660
+m SE3.3 N 45 Gabriel484719_da_Silva 7070-5538
+m SE3.3 S 45 Bianca_da_Silva484719 7333-593
+m SE3.3 N 55 Fernanda81354_da_Silva 3404-5591
+m SE3.3 S 55 Sara_da_Silva81354 8405-9638
+m SE3.3 N 70 Pedro Henrique395205_da_Silva 3038-6155
+m SE3.3 S 70 Sara_da_Silva395205 3765-6370
+m SE3.3 N 85 Debora464560_da_Silva 3989-8916
+m SE3.3 S 85 Paulo_da_Silva464560 4426-1702
+q 450.0 220.0 100.0 60.0 SE3.4
+e SE3.4 O 20 drogaria E1-SE3.4 1736-1470
+e SE3.4 O 45 otica E2-SE3.4 8176-5607
+e SE3.4 O 80 livraria E3-SE3.4 8927-4571
+e SE3.4 L 20 pastelaria E4-SE3.4 9436-9937
+e SE3.4 L 45 advocacia E5-SE3.4 3347-7092
+e SE3.4 L 80 emporio E6-SE3.4 9421-9294
+m SE3.4 N 20 Mariana706568_da_Silva 2482-2148
+m SE3.4 S 20 Gabriel_da_Silva706568 7008-7953
+m SE3.4 N 25 Rita987759_da_Silva 9206-1156
+m SE3.4 S 25 Pedro Henrique_da_Silva987759 8622-510
+m SE3.4 N 35 Heidi702065_da_Silva 9522-7573
+m SE3.4 S 35 Brunswichk_da_Silva702065 9059-8791
+m SE3.4 N 45 Francisco410655_da_Silva 9914-3971
+m SE3.4 S 45 Flavio_da_Silva410655 9574-4180
+m SE3.4 N 55 Karina938060_da_Silva 6679-1617
+m SE3.4 S 55 Pedro Henrique_da_Silva938060 1313-8607
+m SE3.4 N 70 Tiago568522_da_Silva 6026-8748
+m SE3.4 S 70 Catarina_da_Silva568522 6560-5025
+m SE3.4 N 85 Karina986889_da_Silva 3577-7230
+m SE3.4 S 85 Joana_da_Silva986889 8756-3757
+q 560.0 220.0 100.0 60.0 SE3.5
+h HN-SE3.5 610.0 280.0
+h HL-SE3.5 560.0 250.0
+e SE3.5 O 20 mercado_municipal E1-SE3.5 7893-5042
+e SE3.5 O 45 brecho E2-SE3.5 6837-6182
+e SE3.5 O 80 grafica E3-SE3.5 4763-2794
+e SE3.5 L 20 joalheria E4-SE3.5 7444-2416
+e SE3.5 L 45 gibeteria E5-SE3.5 5535-2127
+e SE3.5 L 80 loja E6-SE3.5 9170-559
+m SE3.5 N 20 Gabriel534951_da_Silva 3216-7871
+m SE3.5 S 20 Mia_da_Silva534951 3637-2618
+m SE3.5 N 25 Henrique728229_da_Silva 1314-5540
+m SE3.5 S 25 Joao_da_Silva728229 7561-4565
+m SE3.5 N 35 Beatriz128312_da_Silva 3740-2036
+m SE3.5 S 35 Marina_da_Silva128312 5332-5191
+m SE3.5 N 45 Maria90537_da_Silva 5326-4382
+m SE3.5 S 45 Nadir_da_Silva90537 6833-1347
+m SE3.5 N 55 Eduardo651798_da_Silva 4165-5968
+m SE3.5 S 55 Camila_da_Silva651798 7282-5383
+m SE3.5 N 70 Marina120954_da_Silva 6573-9869
+m SE3.5 S 70 Amanda_da_Silva120954 8938-1746
+m SE3.5 N 85 Eduardo231284_da_Silva 7137-1253
+m SE3.5 S 85 Silvio_da_Silva231284 7951-5912
+q 670.0 220.0 100.0 60.0 SE3.6
+e SE3.6 O 20 galeria_de_arte E1-SE3.6 2983-1387
+e SE3.6 O 45 taberna E2-SE3.6 4102-5314
+e SE3.6 O 80 tabacaria E3-SE3.6 3227-8906
+e SE3.6 L 20 tabacaria E4-SE3.6 3829-4100
+e SE3.6 L 45 sorveteria E5-SE3.6 9487-4910
+e SE3.6 L 80 loja E6-SE3.6 1536-6384
+m SE3.6 N 20 Nadir962305_da_Silva 8141-1850
+m SE3.6 S 20 Tiago_da_Silva962305 1058-8342
+m SE3.6 N 25 Enzo529499_da_Silva 6242-8687
+m SE3.6 S 25 Antonio_da_Silva529499 8779-7827
+m SE3.6 N 35 Nicole75851_da_Silva 8892-9025
+m SE3.6 S 35 Bruno_da_Silva75851 1361-5896
+m SE3.6 N 45 Bernardo844094_da_Silva 8819-407
+m SE3.6 S 45 Artur_da_Silva844094 6972-8251
+m SE3.6 N 55 Mia75105_da_Silva 8751-9579
+m SE3.6 S 55 Laura_da_Silva75105 2779-2495
+m SE3.6 N 70 Tiago559125_da_Silva 2918-7587
+m SE3.6 S 70 Marina_da_Silva559125 7953-7067
+m SE3.6 N 85 Catarina449118_da_Silva 5998-5815
+m SE3.6 S 85 Helio_da_Silva449118 5697-2747
+q 780.0 220.0 100.0 60.0 SE3.7
+e SE3.7 O 20 academia E1-SE3.7 5248-9461
+e SE3.7 O 45 salao_de_beleza E2-SE3.7 6191-753
+e SE3.7 O 80 serralheria E3-SE3.7 1868-1783
+e SE3.7 L 20 loja_de_conveniencia E4-SE3.7 7217-6021
+e SE3.7 L 45 borracharia E5-SE3.7 2138-8307
+e SE3.7 L 80 farmacia E6-SE3.7 9284-4282
+m SE3.7 N 20 Eduardo386061_da_Silva 5749-4139
+m SE3.7 S 20 Maria_da_Silva386061 3433-879
+m SE3.7 N 25 Olavo671811_da_Silva 7171-1583
+m SE3.7 S 25 Josefa_da_Silva671811 6380-2382
+m SE3.7 N 35 Pedro830262_da_Silva 1548-2936
+m SE3.7 S 35 Rita_da_Silva830262 8801-4052
+m SE3.7 N 45 Henrique199647_da_Silva 5590-6110
+m SE3.7 S 45 Karina_da_Silva199647 8071-3343
+m SE3.7 N 55 Iara890398_da_Silva 3925-5539
+m SE3.7 S 55 Marina_da_Silva890398 5177-2012
+m SE3.7 N 70 Pedro970084_da_Silva 8132-7241
+m SE3.7 S 70 Larissa_da_Silva970084 2087-7162
+m SE3.7 N 85 Bernardo613481_da_Silva 4721-8091
+m SE3.7 S 85 Antonio_da_Silva613481 5613-8606
+q 890.0 220.0 100.0 60.0 SE3.8
+h HN-SE3.8 940.0 280.0
+h HL-SE3.8 890.0 250.0
+e SE3.8 O 20 podologia E1-SE3.8 3432-5104
+e SE3.8 O 45 atacadista E2-SE3.8 9311-7767
+e SE3.8 O 80 tabacaria E3-SE3.8 5959-6526
+e SE3.8 L 20 academia E4-SE3.8 8536-2987
+e SE3.8 L 45 podologia E5-SE3.8 7885-6022
+e SE3.8 L 80 petshop E6-SE3.8 8374-4359
+m SE3.8 N 20 Caio363098_da_Silva 9416-389
+m SE3.8 S 20 Francisco_da_Silva363098 6239-1220
+m SE3.8 N 25 Debora833983_da_Silva 4797-3970
+m SE3.8 S 25 Gabriel_da_Silva833983 6854-550
+m SE3.8 N 35 Benjamim335590_da_Silva 8200-5593
+m SE3.8 S 35 Isis_da_Silva335590 7741-2457
+m SE3.8 N 45 Olavo402490_da_Silva 1042-5937
+m SE3.8 S 45 Carlos_Eduardo_da_Silva402490 4362-3963
+m SE3.8 N 55 Silvio683933_da_Silva 3996-3236
+m SE3.8 S 55 Sara_da_Silva683933 1127-8049
+m SE3.8 N 70 Melissa280822_da_Silva 4574-5884
+m SE3.8 S 70 Micaela_da_Silva280822 3078-618
+m SE3.8 N 85 Pedro518977_da_Silva 5653-6434
+m SE3.8 S 85 Henrique_da_Silva518977 5797-924
+q 1000.0 220.0 100.0 60.0 SE3.9
+e SE3.9 O 20 escola_idiomas E1-SE3.9 8853-8232
+e SE3.9 O 45 emporio E2-SE3.9 1316-877
+e SE3.9 O 80 bricabraque E3-SE3.9 1831-4831
+e SE3.9 L 20 drogaria E4-SE3.9 1119-9380
+e SE3.9 L 45 material_construcao E5-SE3.9 9732-7971
+e SE3.9 L 80 cafeteria E6-SE3.9 9452-4396
+m SE3.9 N 20 Nadir73973_da_Silva 2898-9961
+m SE3.9 S 20 Isis_da_Silva73973 8661-2805
+m SE3.9 N 25 Heidi3125_da_Silva 4885-8724
+m SE3.9 S 25 Catarina_da_Silva3125 6483-9249
+m SE3.9 N 35 Silvio392112_da_Silva 4265-203
+m SE3.9 S 35 Silene_da_Silva392112 7696-7783
+m SE3.9 N 45 Maria235953_da_Silva 9118-9854
+m SE3.9 S 45 Mia_da_Silva235953 6863-5954
+m SE3.9 N 55 Ursula196323_da_Silva 7548-7922
+m SE3.9 S 55 Larissa_da_Silva196323 8539-2400
+m SE3.9 N 70 Ana863025_da_Silva 3086-9692
+m SE3.9 S 70 Marina_da_Silva863025 4646-1195
+m SE3.9 N 85 Artur183512_da_Silva 6005-4359
+m SE3.9 S 85 Rafael_da_Silva183512 7640-9471
+q 1110.0 220.0 100.0 60.0 SE3.10
+e SE3.10 O 20 farmacia E1-SE3.10 7777-3525
+e SE3.10 O 45 mercado_municipal E2-SE3.10 6543-3740
+e SE3.10 O 80 academia E3-SE3.10 8018-1645
+e SE3.10 L 20 clinica E4-SE3.10 7513-9985
+e SE3.10 L 45 cabeleleiro E5-SE3.10 7602-2335
+e SE3.10 L 80 self-service E6-SE3.10 9261-5765
+m SE3.10 N 20 Pedro Henrique2822_da_Silva 5972-165
+m SE3.10 S 20 Fernanda_da_Silva2822 6987-8841
+m SE3.10 N 25 Mariana942434_da_Silva 2670-9456
+m SE3.10 S 25 Olavo_da_Silva942434 1108-7054
+m SE3.10 N 35 Antonio272440_da_Silva 4019-7816
+m SE3.10 S 35 Ana_da_Silva272440 7806-7594
+m SE3.10 N 45 Mia86461_da_Silva 7694-4521
+m SE3.10 S 45 Nicole_da_Silva86461 2667-2948
+m SE3.10 N 55 Antonio511180_da_Silva 5288-1226
+m SE3.10 S 55 Amanda_da_Silva511180 6234-9242
+m SE3.10 N 70 Benjamim448144_da_Silva 2865-2245
+m SE3.10 S 70 Clara_da_Silva448144 7479-5369
+m SE3.10 N 85 Maria919615_da_Silva 3844-5848
+m SE3.10 S 85 Maria_da_Silva919615 3602-3867
+q 120.0 290.0 100.0 60.0 SE4.1
+e SE4.1 O 20 loja_de_conveniencia E1-SE4.1 4125-940
+e SE4.1 O 45 papelaria E2-SE4.1 5795-9964
+e SE4.1 O 80 pub E3-SE4.1 8240-2694
+e SE4.1 L 20 mercado_municipal E4-SE4.1 4795-9688
+e SE4.1 L 45 imobiliaria E5-SE4.1 9175-7200
+e SE4.1 L 80 loterica E6-SE4.1 9854-2846
+m SE4.1 N 20 Joao35763_da_Silva 9364-2811
+m SE4.1 S 20 Rita_da_Silva35763 1565-8574
+m SE4.1 N 25 Josefa310710_da_Silva 5376-5546
+m SE4.1 S 25 Caio_da_Silva310710 3240-1898
+m SE4.1 N 35 Melissa430814_da_Silva 9298-7686
+m SE4.1 S 35 Henrique_da_Silva430814 3459-1608
+m SE4.1 N 45 Benjamim386731_da_Silva 8781-3998
+m SE4.1 S 45 Silvio_da_Silva386731 8045-3819
+m SE4.1 N 55 Beatriz503503_da_Silva 8003-8957
+m SE4.1 S 55 Helio_da_Silva503503 1493-7183
+m SE4.1 N 70 Flavio463308_da_Silva 3623-7907
+m SE4.1 S 70 Laura_da_Silva463308 7310-6184
+m SE4.1 N 85 Benjamim122914_da_Silva 2238-4216
+m SE4.1 S 85 Ursula_da_Silva122914 9548-297
+q 230.0 290.0 100.0 60.0 SE4.2
+e SE4.2 O 20 supermercado E1-SE4.2 2169-3675
+e SE4.2 O 45 petshop E2-SE4.2 4479-830
+e SE4.2 O 80 padaria E3-SE4.2 7361-6825
+e SE4.2 L 20 pastelaria E4-SE4.2 8750-3104
+e SE4.2 L 45 banco_de_jornal E5-SE4.2 2061-8240
+e SE4.2 L 80 padaria E6-SE4.2 5829-5156
+m SE4.2 N 20 Brunswichk315012_da_Silva 9654-8934
+m SE4.2 S 20 Bianca_da_Silva315012 7638-2793
+m SE4.2 N 25 Rutger457308_da_Silva 1027-243
+m SE4.2 S 25 Ursula_da_Silva457308 7207-8650
+m SE4.2 N 35 Amanda897174_da_Silva 2042-8068
+m SE4.2 S 35 Rafael_da_Silva897174 1142-6482
+m SE4.2 N 45 Caio852908_da_Silva 9452-9917
+m SE4.2 S 45 Marina_da_Silva852908 7256-3658
+m SE4.2 N 55 Zelia952465_da_Silva 1372-6783
+m SE4.2 S 55 Eduardo_da_Silva952465 8506-6510
+m SE4.2 N 70 Francisco455673_da_Silva 6098-655
+m SE4.2 S 70 Artur_da_Silva455673 6657-8925
+m SE4.2 N 85 Mia771054_da_Silva 4472-8821
+m SE4.2 S 85 Larissa_da_Silva771054 8004-5628
+q 340.0 290.0 100.0 60.0 SE4.3
+e SE4.3 O 20 boutique E1-SE4.3 9349-6427
+e SE4.3 O 45 loja E2-SE4.3 2244-4568
+e SE4.3 O 80 bazar E3-SE4.3 8566-7296
+e SE4.3 L 20 oficina_eletronica E4-SE4.3 2757-1988
+e SE4.3 L 45 posto_de_abastecimento E5-SE4.3 6847-4145
+e SE4.3 L 80 drogaria E6-SE4.3 1728-9428
+m SE4.3 N 20 Marina4482_da_Silva 3069-1092
+m SE4.3 S 20 Bruno_da_Silva4482 9296-9875
+m SE4.3 N 25 Eduardo462154_da_Silva 2587-2194
+m SE4.3 S 25 Sara_da_Silva462154 4639-7769
+m SE4.3 N 35 Zelia474333_da_Silva 9963-4223
+m SE4.3 S 35 Paulo_da_Silva474333 2321-2947
+m SE4.3 N 45 Silvio4596_da_Silva 1930-575
+m SE4.3 S 45 Melissa_da_Silva4596 8675-7289
+m SE4.3 N 55 Zelia903419_da_Silva 6484-2285
+m SE4.3 S 55 Camila_da_Silva903419 7530-9913
+m SE4.3 N 70 Flavio121861_da_Silva 8249-6745
+m SE4.3 S 70 Larissa_da_Silva121861 5026-2282
+m SE4.3 N 85 Silvio424327_da_Silva 7362-114
+m SE4.3 S 85 Iara_da_Silva424327 9863-7586
+q 450.0 290.0 100.0 60.0 SE4.4
+e SE4.4 O 20 loja_de_brinquedos E1-SE4.4 8534-9229
+e SE4.4 O 45 gibeteria E2-SE4.4 5303-3583
+e SE4.4 O 80 cinema E3-SE4.4 1924-8561
+e SE4.4 L 20 agencia_de_viagem E4-SE4.4 6645-2532
+e SE4.4 L 45 bar E5-SE4.4 5082-711
+e SE4.4 L 80 sorveteria E6-SE4.4 9853-5917
+m SE4.4 N 20 Amanda759113_da_Silva 8823-7821
+m SE4.4 S 20 Maria_da_Silva759113 3240-6910
+m SE4.4 N 25 Beatriz338038_da_Silva 2175-1202
+m SE4.4 S 25 Carlos_Eduardo_da_Silva338038 5574-6650
+m SE4.4 N 35 Ursula237241_da_Silva 7724-3479
+m SE4.4 S 35 Zelia_da_Silva237241 9795-8141
+m SE4.4 N 45 Henrique559166_da_Silva 6263-4085
+m SE4.4 S 45 Silvio_da_Silva559166 3597-5693
+m SE4.4 N 55 Beatriz15996_da_Silva 3181-2124
+m SE4.4 S 55 Bianca_da_Silva15996 4329-5603
+m SE4.4 N 70 Daniel880043_da_Silva 5805-3473
+m SE4.4 S 70 Henrique_da_Silva880043 2013-75
+m SE4.4 N 85 Bernardo84358_da_Silva 2639-2718
+m SE4.4 S 85 Pedro Henrique_da_Silva84358 1036-8448
+q 560.0 290.0 100.0 60.0 SE4.5
+e SE4.5 O 20 escola_bale E1-SE4.5 3535-7166
+e SE4.5 O 45 emporio E2-SE4.5 6641-484
+e SE4.5 O 80 loterica E3-SE4.5 5499-4933
+e SE4.5 L 20 academia E4-SE4.5 4715-6300
+e SE4.5 L 45 quitanda E5-SE4.5 9516-1089
+e SE4.5 L 80 drogaria E6-SE4.5 7548-3569
+m SE4.5 N 20 Luiz_Felipe580357_da_Silva 6366-5570
+m SE4.5 S 20 Amanda_da_Silva580357 5004-5005
+m SE4.5 N 25 Heidi927329_da_Silva 4405-4028
+m SE4.5 S 25 Mariana_da_Silva927329 4350-3143
+m SE4.5 N 35 Catarina306817_da_Silva 6316-432
+m SE4.5 S 35 Sara_da_Silva306817 6824-3980
+m SE4.5 N 45 Caio701681_da_Silva 6869-2740
+m SE4.5 S 45 Fernanda_da_Silva701681 9312-9154
+m SE4.5 N 55 Marina776469_da_Silva 4280-5182
+m SE4.5 S 55 Bruno_da_Silva776469 3679-1158
+m SE4.5 N 70 Sara846446_da_Silva 5500-5966
+m SE4.5 S 70 Zelia_da_Silva846446 2886-4485
+m SE4.5 N 85 Nicole624660_da_Silva 6151-8342
+m SE4.5 S 85 Mariana_da_Silva624660 2221-6646
+q 670.0 290.0 100.0 60.0 SE4.6
+e SE4.6 O 20 padaria E1-SE4.6 2763-5078
+e SE4.6 O 45 drogaria E2-SE4.6 3594-9219
+e SE4.6 O 80 salao_de_beleza E3-SE4.6 6165-1487
+e SE4.6 L 20 boutique E4-SE4.6 5028-7177
+e SE4.6 L 45 alfaiataria E5-SE4.6 4151-2650
+e SE4.6 L 80 clinica E6-SE4.6 3994-9415
+m SE4.6 N 20 Isis534035_da_Silva 5395-9750
+m SE4.6 S 20 Nicole_da_Silva534035 9642-9329
+m SE4.6 N 25 Larissa79267_da_Silva 4366-2909
+m SE4.6 S 25 Rafael_da_Silva79267 3284-7253
+m SE4.6 N 35 Amanda837161_da_Silva 7084-7745
+m SE4.6 S 35 Ursula_da_Silva837161 6550-9208
+m SE4.6 N 45 Micaela895172_da_Silva 3542-5771
+m SE4.6 S 45 Micaela_da_Silva895172 5842-5609
+m SE4.6 N 55 Joana348090_da_Silva 3666-4288
+m SE4.6 S 55 Fernanda_da_Silva348090 6095-9953
+m SE4.6 N 70 Catarina833536_da_Silva 9952-1232
+m SE4.6 S 70 Jose_da_Silva833536 8408-1671
+m SE4.6 N 85 Rutger282482_da_Silva 4420-1820
+m SE4.6 S 85 Tiago_da_Silva282482 9823-2202
+q 780.0 290.0 100.0 60.0 SE4.7
+e SE4.7 O 20 farmacia E1-SE4.7 9559-7173
+e SE4.7 O 45 podologia E2-SE4.7 7366-3121
+e SE4.7 O 80 joalheria E3-SE4.7 8859-5691
+e SE4.7 L 20 bar E4-SE4.7 3981-2369
+e SE4.7 L 45 academia E5-SE4.7 7427-1957
+e SE4.7 L 80 mercado_municipal E6-SE4.7 5754-806
+m SE4.7 N 20 Flavio960834_da_Silva 4816-2574
+m SE4.7 S 20 Melissa_da_Silva960834 2473-100
+m SE4.7 N 25 Beatriz873512_da_Silva 8000-6867
+m SE4.7 S 25 Sara_da_Silva873512 6492-9472
+m SE4.7 N 35 Enzo820343_da_Silva 6831-2078
+m SE4.7 S 35 Joao_da_Silva820343 1879-228
+m SE4.7 N 45 Iara616291_da_Silva 1301-51
+m SE4.7 S 45 Ursula_da_Silva616291 6174-3109
+m SE4.7 N 55 Larissa42134_da_Silva 8010-9244
+m SE4.7 S 55 Daniel_da_Silva42134 5490-2125
+m SE4.7 N 70 Clara46237_da_Silva 2021-6803
+m SE4.7 S 70 Brunswichk_da_Silva46237 7303-4407
+m SE4.7 N 85 Berta44634_da_Silva 7390-5122
+m SE4.7 S 85 Debora_da_Silva44634 9680-872
+q 890.0 290.0 100.0 60.0 SE4.8
+h HS-SE4.8 940.0 290.0
+h HO-SE4.8 990.0 320.0
+e SE4.8 O 20 galeria_de_arte E1-SE4.8 6661-8227
+e SE4.8 O 45 antiquario E2-SE4.8 7861-4635
+e SE4.8 O 80 xerox E3-SE4.8 2825-2104
+e SE4.8 L 20 bazar E4-SE4.8 9972-9887
+e SE4.8 L 45 tabacaria E5-SE4.8 5863-7467
+e SE4.8 L 80 clinica E6-SE4.8 8077-3398
+m SE4.8 N 20 Bianca264229_da_Silva 3544-2260
+m SE4.8 S 20 Catarina_da_Silva264229 7344-6042
+m SE4.8 N 25 Joao313313_da_Silva 2567-6238
+m SE4.8 S 25 Micaela_da_Silva313313 3674-7698
+m SE4.8 N 35 Daniel91218_da_Silva 8823-258
+m SE4.8 S 35 Beatriz_da_Silva91218 8348-8831
+m SE4.8 N 45 Amanda638605_da_Silva 4936-7107
+m SE4.8 S 45 Antonio_da_Silva638605 8484-9751
+m SE4.8 N 55 Luiz_Felipe669751_da_Silva 9687-177
+m SE4.8 S 55 Daniel_da_Silva669751 4620-7354
+m SE4.8 N 70 Gabriel484195_da_Silva 1432-5891
+m SE4.8 S 70 Artur_da_Silva484195 8721-8587
+m SE4.8 N 85 Ursula265905_da_Silva 5470-2223
+m SE4.8 S 85 Brunswichk_da_Silva265905 1064-6832
+q 1000.0 290.0 100.0 60.0 SE4.9
+h HN-SE4.9 1050.0 350.0
+h HL-SE4.9 1000.0 320.0
+h HS-SE4.9 1050.0 290.0
+h HO-SE4.9 1100.0 320.0
+e SE4.9 O 20 clinica E1-SE4.9 4272-1826
+e SE4.9 O 45 oficina_eletronica E2-SE4.9 1058-5255
+e SE4.9 O 80 cafeteria E3-SE4.9 4520-3299
+e SE4.9 L 20 alfaiataria E4-SE4.9 6226-2989
+e SE4.9 L 45 escola_bale E5-SE4.9 4328-938
+e SE4.9 L 80 salao_de_beleza E6-SE4.9 4735-862
+m SE4.9 N 20 Miguel943653_da_Silva 9973-2194
+m SE4.9 S 20 Luiz_Felipe_da_Silva943653 2132-7157
+m SE4.9 N 25 Flavio599501_da_Silva 5687-986
+m SE4.9 S 25 Eduardo_da_Silva599501 8137-2134
+m SE4.9 N 35 Clara665116_da_Silva 9018-4831
+m SE4.9 S 35 Catarina_da_Silva665116 6756-7949
+m SE4.9 N 45 Tais512992_da_Silva 4547-5326
+m SE4.9 S 45 Helio_da_Silva512992 3219-7043
+m SE4.9 N 55 Tiago345797_da_Silva 1464-3643
+m SE4.9 S 55 Carlos_Eduardo_da_Silva345797 7738-5650
+m SE4.9 N 70 Gabriel29000_da_Silva 5938-102
+m SE4.9 S 70 Bianca_da_Silva29000 7005-9886
+m SE4.9 N 85 Bruno36120_da_Silva 9850-7081
+m SE4.9 S 85 Bruno_da_Silva36120 4184-7445
+q 1110.0 290.0 100.0 60.0 SE4.10
+e SE4.10 O 20 marcenaria E1-SE4.10 5934-6756
+e SE4.10 O 45 atacadista E2-SE4.10 2718-9964
+e SE4.10 O 80 brecho E3-SE4.10 4017-9902
+e SE4.10 L 20 atacadista E4-SE4.10 5037-3262
+e SE4.10 L 45 oficina_eletronica E5-SE4.10 1410-4243
+e SE4.10 L 80 loterica E6-SE4.10 1611-6314
+m SE4.10 N 20 Rutger80838_da_Silva 2458-4675
+m SE4.10 S 20 Nicole_da_Silva80838 1842-259
+m SE4.10 N 25 Flavio992254_da_Silva 1878-9276
+m SE4.10 S 25 Carlos_Eduardo_da_Silva992254 7415-9525
+m SE4.10 N 35 Gabriela980699_da_Silva 5042-5998
+m SE4.10 S 35 Antonio_da_Silva980699 2176-6240
+m SE4.10 N 45 Benjamim190301_da_Silva 8388-8170
+m SE4.10 S 45 Rutger_da_Silva190301 5397-9378
+m SE4.10 N 55 Nadir681480_da_Silva 8547-7017
+m SE4.10 S 55 Rutger_da_Silva681480 8953-6625
+m SE4.10 N 70 Gabriel260430_da_Silva 2544-1459
+m SE4.10 S 70 Carlos_Eduardo_da_Silva260430 3666-3309
+m SE4.10 N 85 Benjamim663939_da_Silva 4456-5762
+m SE4.10 S 85 Antonio_da_Silva663939 5300-9766
+q 120.0 360.0 100.0 60.0 SE5.1
+e SE5.1 O 20 mercado_municipal E1-SE5.1 7795-3918
+e SE5.1 O 45 galeria_de_arte E2-SE5.1 3399-6644
+e SE5.1 O 80 sapataria E3-SE5.1 4607-2498
+e SE5.1 L 20 casa_noturna E4-SE5.1 8579-6763
+e SE5.1 L 45 sapataria E5-SE5.1 7988-6319
+e SE5.1 L 80 pastelaria E6-SE5.1 5224-5587
+m SE5.1 N 20 Eduardo945874_da_Silva 7143-943
+m SE5.1 S 20 Ana_da_Silva945874 5870-3067
+m SE5.1 N 25 Bruno843920_da_Silva 4252-7725
+m SE5.1 S 25 Berta_da_Silva843920 5564-5198
+m SE5.1 N 35 Joao541375_da_Silva 6022-3812
+m SE5.1 S 35 Sara_da_Silva541375 5866-6455
+m SE5.1 N 45 Francisco570949_da_Silva 8252-3884
+m SE5.1 S 45 Paulo_da_Silva570949 7464-6766
+m SE5.1 N 55 Caio699745_da_Silva 5307-3845
+m SE5.1 S 55 Bianca_da_Silva699745 5648-4000
+m SE5.1 N 70 Bernardo945752_da_Silva 1347-2717
+m SE5.1 S 70 Brunswichk_da_Silva945752 5977-8973
+m SE5.1 N 85 Marina876493_da_Silva 1020-9106
+m SE5.1 S 85 Karina_da_Silva876493 5755-6846
+q 230.0 360.0 100.0 60.0 SE5.2
+t RB-SE5.2 280.0 390.0
+e SE5.2 O 20 taberna E1-SE5.2 4806-6997
+e SE5.2 O 45 cabeleleiro E2-SE5.2 1509-6351
+e SE5.2 O 80 serralheria E3-SE5.2 7170-4079
+e SE5.2 L 20 mercearia E4-SE5.2 3779-7713
+e SE5.2 L 45 drogaria E5-SE5.2 9099-228
+e SE5.2 L 80 farmacia E6-SE5.2 5602-7012
+m SE5.2 N 20 Bernardo340100_da_Silva 3869-3510
+m SE5.2 S 20 Tiago_da_Silva340100 8589-1065
+m SE5.2 N 25 Clara518017_da_Silva 5604-8334
+m SE5.2 S 25 Flavio_da_Silva518017 4975-1308
+m SE5.2 N 35 Rutger764972_da_Silva 2502-4196
+m SE5.2 S 35 Flavio_da_Silva764972 8454-870
+m SE5.2 N 45 Artur743402_da_Silva 2247-6640
+m SE5.2 S 45 Fernanda_da_Silva743402 4473-6848
+m SE5.2 N 55 Zelia865132_da_Silva 5505-591
+m SE5.2 S 55 Ursula_da_Silva865132 8976-9578
+m SE5.2 N 70 Larissa800066_da_Silva 7804-9905
+m SE5.2 S 70 Miguel_da_Silva800066 6799-5447
+m SE5.2 N 85 Eduardo352359_da_Silva 3227-4073
+m SE5.2 S 85 Gabriel_da_Silva352359 6937-8370
+q 340.0 360.0 100.0 60.0 SE5.3
+t RB-SE5.3 390.0 390.0
+e SE5.3 O 20 papelaria E1-SE5.3 5967-4541
+e SE5.3 O 45 casa_noturna E2-SE5.3 3241-8484
+e SE5.3 O 80 podologia E3-SE5.3 2447-1798
+e SE5.3 L 20 antiquario E4-SE5.3 7938-2367
+e SE5.3 L 45 sorveteria E5-SE5.3 3362-5430
+e SE5.3 L 80 clinica E6-SE5.3 7433-3177
+m SE5.3 N 20 Mariana667957_da_Silva 2382-1936
+m SE5.3 S 20 Silene_da_Silva667957 4921-9984
+m SE5.3 N 25 Eduardo98848_da_Silva 4879-2742
+m SE5.3 S 25 Ursula_da_Silva98848 8390-5940
+m SE5.3 N 35 Rafael597331_da_Silva 5022-1002
+m SE5.3 S 35 Rutger_da_Silva597331 6850-3217
+m SE5.3 N 45 Nicole952144_da_Silva 6637-8227
+m SE5.3 S 45 Camila_da_Silva952144 6502-8203
+m SE5.3 N 55 Sara180931_da_Silva 1597-53
+m SE5.3 S 55 Rafael_da_Silva180931 4672-8625
+m SE5.3 N 70 Bruno439009_da_Silva 6825-9288
+m SE5.3 S 70 Antonio_da_Silva439009 5747-3040
+m SE5.3 N 85 Silene585429_da_Silva 2800-3487
+m SE5.3 S 85 Clara_da_Silva585429 1483-9074
+q 450.0 360.0 100.0 60.0 SE5.4
+e SE5.4 O 20 loja_de_departamento E1-SE5.4 4697-1822
+e SE5.4 O 45 otica E2-SE5.4 8913-9661
+e SE5.4 O 80 academia E3-SE5.4 9739-3757
+e SE5.4 L 20 mercado_municipal E4-SE5.4 7877-8168
+e SE5.4 L 45 sebo E5-SE5.4 4042-9725
+e SE5.4 L 80 grafica E6-SE5.4 8754-1765
+m SE5.4 N 20 Caio489216_da_Silva 3725-4957
+m SE5.4 S 20 Laura_da_Silva489216 4095-2179
+m SE5.4 N 25 Bruno936523_da_Silva 7474-8869
+m SE5.4 S 25 Berta_da_Silva936523 7237-2344
+m SE5.4 N 35 Isis225411_da_Silva 3836-8974
+m SE5.4 S 35 Rafael_da_Silva225411 8834-8849
+m SE5.4 N 45 Beatriz242636_da_Silva 6115-3981
+m SE5.4 S 45 Jose_da_Silva242636 3726-1676
+m SE5.4 N 55 Larissa159191_da_Silva 5356-2695
+m SE5.4 S 55 Ursula_da_Silva159191 6298-3376
+m SE5.4 N 70 Enzo780532_da_Silva 3677-1434
+m SE5.4 S 70 Eduardo_da_Silva780532 4545-7593
+m SE5.4 N 85 Debora721607_da_Silva 5031-5974
+m SE5.4 S 85 Rafael_da_Silva721607 3870-2450
+q 560.0 360.0 100.0 60.0 SE5.5
+h HN-SE5.5 610.0 420.0
+h HL-SE5.5 560.0 390.0
+e SE5.5 O 20 sorveteria E1-SE5.5 2830-7095
+e SE5.5 O 45 advocacia E2-SE5.5 2986-5617
+e SE5.5 O 80 concessionaria_automoveis E3-SE5.5 2030-6905
+e SE5.5 L 20 mercado_municipal E4-SE5.5 3350-9450
+e SE5.5 L 45 posto_de_abastecimento E5-SE5.5 7622-4381
+e SE5.5 L 80 conservatorio_musical E6-SE5.5 2976-2355
+m SE5.5 N 20 Jose697187_da_Silva 2028-1707
+m SE5.5 S 20 Gabriel_da_Silva697187 1971-9096
+m SE5.5 N 25 Amanda645545_da_Silva 2835-516
+m SE5.5 S 25 Jose_da_Silva645545 6390-8999
+m SE5.5 N 35 Rutger182028_da_Silva 5036-3992
+m SE5.5 S 35 Laura_da_Silva182028 9100-2768
+m SE5.5 N 45 Mia758138_da_Silva 3410-7988
+m SE5.5 S 45 Silene_da_Silva758138 6290-4855
+m SE5.5 N 55 Pedro Henrique782282_da_Silva 7203-3061
+m SE5.5 S 55 Mia_da_Silva782282 3286-5669
+m SE5.5 N 70 Caio135338_da_Silva 9881-6992
+m SE5.5 S 70 Berta_da_Silva135338 5359-7740
+m SE5.5 N 85 Artur91060_da_Silva 2287-5425
+m SE5.5 S 85 Miguel_da_Silva91060 1094-3949
+q 670.0 360.0 100.0 60.0 SE5.6
+e SE5.6 O 20 restaurante E1-SE5.6 9453-3609
+e SE5.6 O 45 farmacia E2-SE5.6 4715-586
+e SE5.6 O 80 quitanda E3-SE5.6 5504-4513
+e SE5.6 L 20 emporio E4-SE5.6 6172-3008
+e SE5.6 L 45 livraria E5-SE5.6 5358-3299
+e SE5.6 L 80 oficina_mecanica E6-SE5.6 8958-2204
+m SE5.6 N 20 Ana409011_da_Silva 1449-5726
+m SE5.6 S 20 Rafael_da_Silva409011 6463-671
+m SE5.6 N 25 Ursula159378_da_Silva 9517-8235
+m SE5.6 S 25 Francisco_da_Silva159378 3473-9681
+m SE5.6 N 35 Luiz_Felipe760413_da_Silva 8407-6902
+m SE5.6 S 35 Paulo_da_Silva760413 2337-8083
+m SE5.6 N 45 Heidi569149_da_Silva 5894-7875
+m SE5.6 S 45 Mariana_da_Silva569149 9281-5239
+m SE5.6 N 55 Caio503273_da_Silva 4109-2699
+m SE5.6 S 55 Micaela_da_Silva503273 2989-576
+m SE5.6 N 70 Nicole688422_da_Silva 2841-8936
+m SE5.6 S 70 Helio_da_Silva688422 2420-2088
+m SE5.6 N 85 Rita178463_da_Silva 7282-8455
+m SE5.6 S 85 Joana_da_Silva178463 6125-7234
+q 780.0 360.0 100.0 60.0 SE5.7
+h HS-SE5.7 830.0 360.0
+h HO-SE5.7 880.0 390.0
+e SE5.7 O 20 material_construcao E1-SE5.7 7356-7320
+e SE5.7 O 45 bricabraque E2-SE5.7 4559-5606
+e SE5.7 O 80 escola_bale E3-SE5.7 7979-8457
+e SE5.7 L 20 cinema E4-SE5.7 4516-6934
+e SE5.7 L 45 cabeleleiro E5-SE5.7 9591-1527
+e SE5.7 L 80 papelaria E6-SE5.7 4314-8989
+m SE5.7 N 20 Nadir947964_da_Silva 6333-32
+m SE5.7 S 20 Silene_da_Silva947964 6636-1077
+m SE5.7 N 25 Bianca788776_da_Silva 8196-1064
+m SE5.7 S 25 Iara_da_Silva788776 9547-1615
+m SE5.7 N 35 Helio667875_da_Silva 6434-4611
+m SE5.7 S 35 Berta_da_Silva667875 5388-5775
+m SE5.7 N 45 Mariana857808_da_Silva 7565-1545
+m SE5.7 S 45 Antonio_da_Silva857808 5085-1805
+m SE5.7 N 55 Rutger984724_da_Silva 3148-783
+m SE5.7 S 55 Ana_da_Silva984724 6929-4730
+m SE5.7 N 70 Rafael81374_da_Silva 7913-7067
+m SE5.7 S 70 Iara_da_Silva81374 4877-9893
+m SE5.7 N 85 Maria539331_da_Silva 8523-7126
+m SE5.7 S 85 Paulo_da_Silva539331 9803-3400
+q 890.0 360.0 100.0 60.0 SE5.8
+h HN-SE5.8 940.0 420.0
+h HL-SE5.8 890.0 390.0
+e SE5.8 O 20 emporio E1-SE5.8 8012-1230
+e SE5.8 O 45 imobiliaria E2-SE5.8 9759-858
+e SE5.8 O 80 emporio E3-SE5.8 3079-8548
+e SE5.8 L 20 alfaiataria E4-SE5.8 4487-47
+e SE5.8 L 45 antiquario E5-SE5.8 3123-5526
+e SE5.8 L 80 loja_de_brinquedos E6-SE5.8 7061-469
+m SE5.8 N 20 Rutger4556_da_Silva 9469-6293
+m SE5.8 S 20 Ana_da_Silva4556 2242-2868
+m SE5.8 N 25 Helio522690_da_Silva 7422-9175
+m SE5.8 S 25 Clara_da_Silva522690 6733-2031
+m SE5.8 N 35 Tais144784_da_Silva 5928-7773
+m SE5.8 S 35 Berta_da_Silva144784 5810-1935
+m SE5.8 N 45 Caio700759_da_Silva 7015-7473
+m SE5.8 S 45 Antonio_da_Silva700759 7878-453
+m SE5.8 N 55 Eduardo521229_da_Silva 9214-4015
+m SE5.8 S 55 Zelia_da_Silva521229 6987-497
+m SE5.8 N 70 Caio962319_da_Silva 6378-9099
+m SE5.8 S 70 Joao_da_Silva962319 4267-3665
+m SE5.8 N 85 Artur333778_da_Silva 1129-3493
+m SE5.8 S 85 Luiz_Felipe_da_Silva333778 5775-5459
+q 1000.0 360.0 100.0 60.0 SE5.9
+h HN-SE5.9 1050.0 420.0
+h HL-SE5.9 1000.0 390.0
+h HS-SE5.9 1050.0 360.0
+h HO-SE5.9 1100.0 390.0
+e SE5.9 O 20 joalheria E1-SE5.9 4633-4484
+e SE5.9 O 45 laboratorio_de_analises_clinicas E2-SE5.9 9347-2880
+e SE5.9 O 80 emporio E3-SE5.9 2999-8884
+e SE5.9 L 20 acougue E4-SE5.9 5180-8293
+e SE5.9 L 45 escola_bale E5-SE5.9 2461-8531
+e SE5.9 L 80 sebo E6-SE5.9 6102-9868
+m SE5.9 N 20 Nadir223561_da_Silva 1238-2135
+m SE5.9 S 20 Brunswichk_da_Silva223561 7320-8005
+m SE5.9 N 25 Bruno956084_da_Silva 6807-6230
+m SE5.9 S 25 Artur_da_Silva956084 8240-4880
+m SE5.9 N 35 Zelia875338_da_Silva 8990-3841
+m SE5.9 S 35 Nicole_da_Silva875338 3832-9937
+m SE5.9 N 45 Sara164256_da_Silva 3731-5929
+m SE5.9 S 45 Gabriela_da_Silva164256 1653-7172
+m SE5.9 N 55 Eduardo85643_da_Silva 9842-7605
+m SE5.9 S 55 Gabriel_da_Silva85643 6548-2942
+m SE5.9 N 70 Melissa389571_da_Silva 1653-1939
+m SE5.9 S 70 Silvio_da_Silva389571 6416-4287
+m SE5.9 N 85 Pedro Henrique913113_da_Silva 7965-4406
+m SE5.9 S 85 Artur_da_Silva913113 8034-3639
+q 1110.0 360.0 100.0 60.0 SE5.10
+e SE5.10 O 20 brecho E1-SE5.10 2227-6320
+e SE5.10 O 45 papelaria E2-SE5.10 3941-5361
+e SE5.10 O 80 loja_de_departamento E3-SE5.10 5756-4312
+e SE5.10 L 20 loja_de_brinquedos E4-SE5.10 9157-8100
+e SE5.10 L 45 contabilidade E5-SE5.10 6033-8063
+e SE5.10 L 80 farmacia E6-SE5.10 5653-8689
+m SE5.10 N 20 Laura30803_da_Silva 7408-7422
+m SE5.10 S 20 Bruno_da_Silva30803 4294-4211
+m SE5.10 N 25 Gabriela441210_da_Silva 2081-5365
+m SE5.10 S 25 Helio_da_Silva441210 6132-851
+m SE5.10 N 35 Francisco762707_da_Silva 8386-986
+m SE5.10 S 35 Benjamim_da_Silva762707 2818-6198
+m SE5.10 N 45 Bruno258570_da_Silva 7625-3657
+m SE5.10 S 45 Micaela_da_Silva258570 9134-1267
+m SE5.10 N 55 Mateus387068_da_Silva 6047-9289
+m SE5.10 S 55 Francisco_da_Silva387068 7067-104
+m SE5.10 N 70 Antonio721084_da_Silva 4255-1016
+m SE5.10 S 70 Jose_da_Silva721084 1706-1335
+m SE5.10 N 85 Ursula954907_da_Silva 4630-6210
+m SE5.10 S 85 Heidi_da_Silva954907 5856-1469
+q 120.0 430.0 100.0 60.0 SE6.1
+h HN-SE6.1 170.0 490.0
+h HL-SE6.1 120.0 460.0
+e SE6.1 O 20 bar E1-SE6.1 3823-6780
+e SE6.1 O 45 conservatorio_musical E2-SE6.1 6214-5828
+e SE6.1 O 80 sapataria E3-SE6.1 4549-1081
+e SE6.1 L 20 self-service E4-SE6.1 9526-16
+e SE6.1 L 45 emporio E5-SE6.1 6219-6235
+e SE6.1 L 80 agencia_de_viagem E6-SE6.1 2027-9816
+m SE6.1 N 20 Zelia793902_da_Silva 4612-4950
+m SE6.1 S 20 Eduardo_da_Silva793902 8739-6372
+m SE6.1 N 25 Marina107182_da_Silva 2207-1238
+m SE6.1 S 25 Maria_da_Silva107182 3860-2937
+m SE6.1 N 35 Bernardo919570_da_Silva 8444-4117
+m SE6.1 S 35 Carlos_Eduardo_da_Silva919570 3170-2466
+m SE6.1 N 45 Pedro199131_da_Silva 1096-3376
+m SE6.1 S 45 Nicole_da_Silva199131 6951-846
+m SE6.1 N 55 Eduardo372519_da_Silva 5736-7165
+m SE6.1 S 55 Joana_da_Silva372519 8708-7166
+m SE6.1 N 70 Antonio232868_da_Silva 8555-1161
+m SE6.1 S 70 Isis_da_Silva232868 6396-6873
+m SE6.1 N 85 Karina651817_da_Silva 3568-4259
+m SE6.1 S 85 Camila_da_Silva651817 9201-8563
+q 230.0 430.0 100.0 60.0 SE6.2
+h HN-SE6.2 280.0 490.0
+h HL-SE6.2 230.0 460.0
+h HS-SE6.2 280.0 430.0
+h HO-SE6.2 330.0 460.0
+e SE6.2 O 20 alfaiataria E1-SE6.2 3103-46
+e SE6.2 O 45 loja_de_brinquedos E2-SE6.2 3242-582
+e SE6.2 O 80 fliperama E3-SE6.2 7909-892
+e SE6.2 L 20 clinica E4-SE6.2 9763-766
+e SE6.2 L 45 xerox E5-SE6.2 2435-2269
+e SE6.2 L 80 mercearia E6-SE6.2 6775-2625
+m SE6.2 N 20 Rutger414605_da_Silva 6566-8826
+m SE6.2 S 20 Micaela_da_Silva414605 9498-4057
+m SE6.2 N 25 Paulo674756_da_Silva 2798-4977
+m SE6.2 S 25 Debora_da_Silva674756 3298-3638
+m SE6.2 N 35 Bianca127053_da_Silva 5225-9419
+m SE6.2 S 35 Bruno_da_Silva127053 7990-8080
+m SE6.2 N 45 Tais268323_da_Silva 1935-1785
+m SE6.2 S 45 Karina_da_Silva268323 9914-8049
+m SE6.2 N 55 Carlos_Eduardo639745_da_Silva 7825-4682
+m SE6.2 S 55 Bruno_da_Silva639745 1006-5394
+m SE6.2 N 70 Rita175872_da_Silva 8447-2158
+m SE6.2 S 70 Caio_da_Silva175872 4933-2647
+m SE6.2 N 85 Tais856205_da_Silva 8906-8966
+m SE6.2 S 85 Gabriela_da_Silva856205 3855-3379
+q 340.0 430.0 100.0 60.0 SE6.3
+h HN-SE6.3 390.0 490.0
+h HL-SE6.3 340.0 460.0
+e SE6.3 O 20 posto_de_abastecimento E1-SE6.3 4970-972
+e SE6.3 O 45 bazar E2-SE6.3 6307-738
+e SE6.3 O 80 sapataria E3-SE6.3 5573-2397
+e SE6.3 L 20 vidracaria E4-SE6.3 2645-6901
+e SE6.3 L 45 brecho E5-SE6.3 9664-4445
+e SE6.3 L 80 escola_idiomas E6-SE6.3 2638-595
+m SE6.3 N 20 Micaela845997_da_Silva 6863-7940
+m SE6.3 S 20 Nadir_da_Silva845997 4107-9653
+m SE6.3 N 25 Artur820841_da_Silva 1285-5139
+m SE6.3 S 25 Debora_da_Silva820841 7232-4167
+m SE6.3 N 35 Daniel381677_da_Silva 4403-2745
+m SE6.3 S 35 Benjamim_da_Silva381677 4235-2499
+m SE6.3 N 45 Iara139997_da_Silva 5654-3816
+m SE6.3 S 45 Olavo_da_Silva139997 7388-7463
+m SE6.3 N 55 Paulo996912_da_Silva 1079-2059
+m SE6.3 S 55 Silene_da_Silva996912 7712-4691
+m SE6.3 N 70 Gabriel836063_da_Silva 3324-6030
+m SE6.3 S 70 Pedro_da_Silva836063 6296-8951
+m SE6.3 N 85 Rafael883895_da_Silva 6300-3626
+m SE6.3 S 85 Gabriel_da_Silva883895 6703-2027
+q 450.0 430.0 100.0 60.0 SE6.4
+h HN-SE6.4 500.0 490.0
+h HL-SE6.4 450.0 460.0
+e SE6.4 O 20 contabilidade E1-SE6.4 8498-5482
+e SE6.4 O 45 joalheria E2-SE6.4 3010-5233
+e SE6.4 O 80 marcenaria E3-SE6.4 4092-8853
+e SE6.4 L 20 bazar E4-SE6.4 4638-310
+e SE6.4 L 45 brecho E5-SE6.4 2538-9229
+e SE6.4 L 80 petshop E6-SE6.4 9978-3904
+m SE6.4 N 20 Mariana144796_da_Silva 7713-1974
+m SE6.4 S 20 Heidi_da_Silva144796 2951-9619
+m SE6.4 N 25 Luiz_Felipe988717_da_Silva 9960-9112
+m SE6.4 S 25 Francisco_da_Silva988717 3860-8904
+m SE6.4 N 35 Micaela749018_da_Silva 4822-5231
+m SE6.4 S 35 Nicole_da_Silva749018 3122-9190
+m SE6.4 N 45 Antonio166959_da_Silva 9451-4838
+m SE6.4 S 45 Debora_da_Silva166959 4508-7706
+m SE6.4 N 55 Jose657107_da_Silva 4396-6688
+m SE6.4 S 55 Antonio_da_Silva657107 1908-4985
+m SE6.4 N 70 Tiago736568_da_Silva 1173-5020
+m SE6.4 S 70 Bernardo_da_Silva736568 9878-5984
+m SE6.4 N 85 Artur937799_da_Silva 9380-6763
+m SE6.4 S 85 Daniel_da_Silva937799 5725-5251
+q 560.0 430.0 100.0 60.0 SE6.5
+e SE6.5 O 20 supermercado E1-SE6.5 6295-9513
+e SE6.5 O 45 grafica E2-SE6.5 7361-1170
+e SE6.5 O 80 restaurante E3-SE6.5 3532-7495
+e SE6.5 L 20 loja_de_departamento E4-SE6.5 9815-7496
+e SE6.5 L 45 bricabraque E5-SE6.5 4883-4976
+e SE6.5 L 80 bar E6-SE6.5 1885-8670
+m SE6.5 N 20 Mateus319443_da_Silva 2865-6670
+m SE6.5 S 20 Ana_da_Silva319443 5751-9865
+m SE6.5 N 25 Gabriel60935_da_Silva 9241-843
+m SE6.5 S 25 Catarina_da_Silva60935 2949-4312
+m SE6.5 N 35 Pedro370697_da_Silva 1705-2892
+m SE6.5 S 35 Bianca_da_Silva370697 5830-9914
+m SE6.5 N 45 Tais975906_da_Silva 2540-4406
+m SE6.5 S 45 Artur_da_Silva975906 3722-7400
+m SE6.5 N 55 Silene598595_da_Silva 7114-6296
+m SE6.5 S 55 Tiago_da_Silva598595 8003-2012
+m SE6.5 N 70 Isis167134_da_Silva 1796-2040
+m SE6.5 S 70 Tiago_da_Silva167134 8574-5436
+m SE6.5 N 85 Isis549038_da_Silva 7952-9441
+m SE6.5 S 85 Berta_da_Silva549038 1184-2931
+q 670.0 430.0 100.0 60.0 SE6.6
+e SE6.6 O 20 bar E1-SE6.6 2980-7414
+e SE6.6 O 45 emporio E2-SE6.6 6776-8894
+e SE6.6 O 80 pastelaria E3-SE6.6 6658-8053
+e SE6.6 L 20 antiquario E4-SE6.6 9212-2873
+e SE6.6 L 45 grafica E5-SE6.6 3193-7305
+e SE6.6 L 80 banco_de_jornal E6-SE6.6 4794-3071
+m SE6.6 N 20 Maria393698_da_Silva 5856-4124
+m SE6.6 S 20 Gabriel_da_Silva393698 8866-640
+m SE6.6 N 25 Silene101338_da_Silva 1509-6826
+m SE6.6 S 25 Clara_da_Silva101338 9123-8599
+m SE6.6 N 35 Luiz_Felipe195831_da_Silva 7094-417
+m SE6.6 S 35 Pedro_da_Silva195831 5250-1975
+m SE6.6 N 45 Maria844451_da_Silva 9292-4507
+m SE6.6 S 45 Nadir_da_Silva844451 8092-6271
+m SE6.6 N 55 Laura921301_da_Silva 9997-7924
+m SE6.6 S 55 Bernardo_da_Silva921301 4511-3142
+m SE6.6 N 70 Carlos_Eduardo909066_da_Silva 3551-1489
+m SE6.6 S 70 Pedro_da_Silva909066 9428-6139
+m SE6.6 N 85 Daniel128845_da_Silva 9930-566
+m SE6.6 S 85 Helio_da_Silva128845 2583-4863
+q 780.0 430.0 100.0 60.0 SE6.7
+h HN-SE6.7 830.0 490.0
+h HL-SE6.7 780.0 460.0
+e SE6.7 O 20 fliperama E1-SE6.7 9585-7771
+e SE6.7 O 45 galeria_de_arte E2-SE6.7 1246-9897
+e SE6.7 O 80 posto_de_abastecimento E3-SE6.7 8173-3712
+e SE6.7 L 20 lavanderia E4-SE6.7 1347-1636
+e SE6.7 L 45 imobiliaria E5-SE6.7 6441-2489
+e SE6.7 L 80 agencia_de_viagem E6-SE6.7 3826-2057
+m SE6.7 N 20 Tiago683905_da_Silva 5260-7654
+m SE6.7 S 20 Nicole_da_Silva683905 5147-1183
+m SE6.7 N 25 Beatriz362090_da_Silva 5691-3951
+m SE6.7 S 25 Daniel_da_Silva362090 1349-2216
+m SE6.7 N 35 Brunswichk473913_da_Silva 6956-9421
+m SE6.7 S 35 Iara_da_Silva473913 1097-768
+m SE6.7 N 45 Amanda59653_da_Silva 8198-8936
+m SE6.7 S 45 Carlos_Eduardo_da_Silva59653 3378-3969
+m SE6.7 N 55 Marina62692_da_Silva 8696-1323
+m SE6.7 S 55 Mia_da_Silva62692 4129-7727
+m SE6.7 N 70 Larissa300888_da_Silva 3519-9805
+m SE6.7 S 70 Nadir_da_Silva300888 9425-6458
+m SE6.7 N 85 Flavio978376_da_Silva 2169-9706
+m SE6.7 S 85 Caio_da_Silva978376 5425-1702
+q 890.0 430.0 100.0 60.0 SE6.8
+e SE6.8 O 20 loja E1-SE6.8 4730-6214
+e SE6.8 O 45 petshop E2-SE6.8 3331-2944
+e SE6.8 O 80 petshop E3-SE6.8 6837-1332
+e SE6.8 L 20 self-service E4-SE6.8 6441-3905
+e SE6.8 L 45 funeraria E5-SE6.8 4691-9476
+e SE6.8 L 80 tabacaria E6-SE6.8 2774-7091
+m SE6.8 N 20 Flavio431807_da_Silva 4386-4082
+m SE6.8 S 20 Fernanda_da_Silva431807 3287-7334
+m SE6.8 N 25 Flavio727483_da_Silva 1277-6652
+m SE6.8 S 25 Catarina_da_Silva727483 1781-212
+m SE6.8 N 35 Nadir833436_da_Silva 4375-7260
+m SE6.8 S 35 Catarina_da_Silva833436 1054-3414
+m SE6.8 N 45 Rafael939884_da_Silva 4955-1341
+m SE6.8 S 45 Iara_da_Silva939884 3744-416
+m SE6.8 N 55 Silvio493630_da_Silva 2425-5581
+m SE6.8 S 55 Beatriz_da_Silva493630 6610-5916
+m SE6.8 N 70 Luiz_Felipe736076_da_Silva 8866-3345
+m SE6.8 S 70 Berta_da_Silva736076 1330-150
+m SE6.8 N 85 Joana430672_da_Silva 2699-9483
+m SE6.8 S 85 Enzo_da_Silva430672 4955-502
+q 1000.0 430.0 100.0 60.0 SE6.9
+h HN-SE6.9 1050.0 490.0
+h HL-SE6.9 1000.0 460.0
+h HS-SE6.9 1050.0 430.0
+h HO-SE6.9 1100.0 460.0
+e SE6.9 O 20 contabilidade E1-SE6.9 5667-427
+e SE6.9 O 45 restaurante E2-SE6.9 8903-9947
+e SE6.9 O 80 farmacia E3-SE6.9 5462-8851
+e SE6.9 L 20 brecho E4-SE6.9 1357-2546
+e SE6.9 L 45 alfaiataria E5-SE6.9 4629-360
+e SE6.9 L 80 podologia E6-SE6.9 5452-3793
+m SE6.9 N 20 Bruno637859_da_Silva 2546-6532
+m SE6.9 S 20 Tais_da_Silva637859 2182-7509
+m SE6.9 N 25 Debora19801_da_Silva 7433-5099
+m SE6.9 S 25 Josefa_da_Silva19801 2492-4765
+m SE6.9 N 35 Bruno578709_da_Silva 3814-8021
+m SE6.9 S 35 Mateus_da_Silva578709 1871-2476
+m SE6.9 N 45 Silene546213_da_Silva 9748-4970
+m SE6.9 S 45 Josefa_da_Silva546213 8746-8424
+m SE6.9 N 55 Rafael98000_da_Silva 3758-1052
+m SE6.9 S 55 Debora_da_Silva98000 3857-1742
+m SE6.9 N 70 Daniel476009_da_Silva 2642-8555
+m SE6.9 S 70 Rafael_da_Silva476009 8281-6131
+m SE6.9 N 85 Henrique735399_da_Silva 2897-6451
+m SE6.9 S 85 Rita_da_Silva735399 6353-758
+q 1110.0 430.0 100.0 60.0 SE6.10
+t RB-SE6.10 1160.0 460.0
+e SE6.10 O 20 alfaiataria E1-SE6.10 6099-8638
+e SE6.10 O 45 boutique E2-SE6.10 7249-2986
+e SE6.10 O 80 sapataria E3-SE6.10 7787-3319
+e SE6.10 L 20 borracharia E4-SE6.10 3193-8148
+e SE6.10 L 45 advocacia E5-SE6.10 8375-9944
+e SE6.10 L 80 pub E6-SE6.10 7285-843
+m SE6.10 N 20 Larissa693803_da_Silva 4269-3646
+m SE6.10 S 20 Rafael_da_Silva693803 2622-1758
+m SE6.10 N 25 Berta860003_da_Silva 5227-3372
+m SE6.10 S 25 Marina_da_Silva860003 4226-1915
+m SE6.10 N 35 Caio119584_da_Silva 7098-9672
+m SE6.10 S 35 Henrique_da_Silva119584 5312-9499
+m SE6.10 N 45 Gabriel179978_da_Silva 9631-6048
+m SE6.10 S 45 Heidi_da_Silva179978 4253-14
+m SE6.10 N 55 Heidi543216_da_Silva 4143-1229
+m SE6.10 S 55 Larissa_da_Silva543216 6406-5660
+m SE6.10 N 70 Nicole857938_da_Silva 4136-3566
+m SE6.10 S 70 Bianca_da_Silva857938 3353-1788
+m SE6.10 N 85 Fernanda566621_da_Silva 4548-8952
+m SE6.10 S 85 Pedro Henrique_da_Silva566621 8325-9117
+q 1410.0 670.0 100.0 60.0 NO1.1
+h HN-NO1.1 1460.0 730.0
+h HL-NO1.1 1410.0 700.0
+e NO1.1 O 20 banco_de_jornal E1-NO1.1 1919-992
+e NO1.1 O 45 lavanderia E2-NO1.1 9732-4289
+e NO1.1 O 80 self-service E3-NO1.1 1281-3740
+e NO1.1 L 20 banco E4-NO1.1 6604-6622
+e NO1.1 L 45 gibeteria E5-NO1.1 8595-5656
+e NO1.1 L 80 hipermercado E6-NO1.1 7517-3894
+m NO1.1 N 20 Berta993886_da_Silva 5827-2648
+m NO1.1 S 20 Brunswichk_da_Silva993886 7578-4602
+m NO1.1 N 25 Joao249091_da_Silva 1965-9385
+m NO1.1 S 25 Miguel_da_Silva249091 5174-1992
+m NO1.1 N 35 Melissa350542_da_Silva 3055-1638
+m NO1.1 S 35 Beatriz_da_Silva350542 9382-6400
+m NO1.1 N 45 Melissa741282_da_Silva 3864-2279
+m NO1.1 S 45 Eduardo_da_Silva741282 9098-511
+m NO1.1 N 55 Carlos_Eduardo66278_da_Silva 5945-5449
+m NO1.1 S 55 Henrique_da_Silva66278 4639-5418
+m NO1.1 N 70 Tiago904797_da_Silva 6821-74
+m NO1.1 S 70 Helio_da_Silva904797 2570-6103
+m NO1.1 N 85 Rafael53747_da_Silva 3565-2801
+m NO1.1 S 85 Henrique_da_Silva53747 4305-7596
+q 1520.0 670.0 100.0 60.0 NO1.2
+e NO1.2 O 20 galeria_de_arte E1-NO1.2 6834-1961
+e NO1.2 O 45 advocacia E2-NO1.2 7053-8158
+e NO1.2 O 80 borracharia E3-NO1.2 5062-3325
+e NO1.2 L 20 self-service E4-NO1.2 3191-9819
+e NO1.2 L 45 banco E5-NO1.2 4666-7544
+e NO1.2 L 80 conservatorio_musical E6-NO1.2 3306-484
+m NO1.2 N 20 Paulo576571_da_Silva 9822-9471
+m NO1.2 S 20 Olavo_da_Silva576571 4085-7244
+m NO1.2 N 25 Isis545344_da_Silva 4985-4606
+m NO1.2 S 25 Benjamim_da_Silva545344 6074-9284
+m NO1.2 N 35 Isis917412_da_Silva 7207-6487
+m NO1.2 S 35 Eduardo_da_Silva917412 7188-3328
+m NO1.2 N 45 Zelia720574_da_Silva 9560-4184
+m NO1.2 S 45 Tais_da_Silva720574 2655-6959
+m NO1.2 N 55 Joao218973_da_Silva 8102-4940
+m NO1.2 S 55 Nadir_da_Silva218973 7112-5849
+m NO1.2 N 70 Joao354353_da_Silva 3932-7938
+m NO1.2 S 70 Micaela_da_Silva354353 1105-7515
+m NO1.2 N 85 Gabriel479397_da_Silva 2152-2447
+m NO1.2 S 85 Ana_da_Silva479397 6179-4739
+q 1630.0 670.0 100.0 60.0 NO1.3
+h HN-NO1.3 1680.0 730.0
+h HL-NO1.3 1630.0 700.0
+e NO1.3 O 20 loja_de_conveniencia E1-NO1.3 9656-7219
+e NO1.3 O 45 padaria E2-NO1.3 7970-5612
+e NO1.3 O 80 galeria_de_arte E3-NO1.3 4396-1677
+e NO1.3 L 20 loja_de_brinquedos E4-NO1.3 5918-979
+e NO1.3 L 45 lava_rapido E5-NO1.3 3432-3176
+e NO1.3 L 80 livraria E6-NO1.3 6023-5259
+m NO1.3 N 20 Rita689946_da_Silva 1610-8239
+m NO1.3 S 20 Bruno_da_Silva689946 2848-3251
+m NO1.3 N 25 Gabriela846243_da_Silva 7222-2298
+m NO1.3 S 25 Gabriel_da_Silva846243 4027-9874
+m NO1.3 N 35 Carlos_Eduardo432598_da_Silva 7660-5735
+m NO1.3 S 35 Rutger_da_Silva432598 8946-8128
+m NO1.3 N 45 Henrique964161_da_Silva 7130-1626
+m NO1.3 S 45 Mateus_da_Silva964161 2891-4172
+m NO1.3 N 55 Enzo617830_da_Silva 9569-1554
+m NO1.3 S 55 Rafael_da_Silva617830 8049-8851
+m NO1.3 N 70 Daniel441591_da_Silva 2158-977
+m NO1.3 S 70 Josefa_da_Silva441591 4999-3210
+m NO1.3 N 85 Iara826618_da_Silva 5890-1368
+m NO1.3 S 85 Helio_da_Silva826618 4576-4408
+q 1740.0 670.0 100.0 60.0 NO1.4
+e NO1.4 O 20 galeria_de_arte E1-NO1.4 1894-7490
+e NO1.4 O 45 drogaria E2-NO1.4 1020-9620
+e NO1.4 O 80 oficina_eletronica E3-NO1.4 8902-2131
+e NO1.4 L 20 oficina_eletronica E4-NO1.4 8542-7648
+e NO1.4 L 45 loja_de_conveniencia E5-NO1.4 1229-9246
+e NO1.4 L 80 fliperama E6-NO1.4 2688-7878
+m NO1.4 N 20 Maria399191_da_Silva 2082-4645
+m NO1.4 S 20 Artur_da_Silva399191 2299-7519
+m NO1.4 N 25 Rafael275683_da_Silva 7275-7745
+m NO1.4 S 25 Joao_da_Silva275683 9122-3794
+m NO1.4 N 35 Henrique537228_da_Silva 3522-8520
+m NO1.4 S 35 Laura_da_Silva537228 3829-3357
+m NO1.4 N 45 Debora842554_da_Silva 5372-6473
+m NO1.4 S 45 Daniel_da_Silva842554 5909-7053
+m NO1.4 N 55 Berta390628_da_Silva 9704-2327
+m NO1.4 S 55 Pedro Henrique_da_Silva390628 5941-4913
+m NO1.4 N 70 Joao943849_da_Silva 4513-3244
+m NO1.4 S 70 Tais_da_Silva943849 9096-610
+m NO1.4 N 85 Mariana298464_da_Silva 9815-9452
+m NO1.4 S 85 Olavo_da_Silva298464 8185-9362
+q 1850.0 670.0 100.0 60.0 NO1.5
+t RB-NO1.5 1900.0 700.0
+h HN-NO1.5 1900.0 730.0
+h HL-NO1.5 1850.0 700.0
+h HS-NO1.5 1900.0 670.0
+h HO-NO1.5 1950.0 700.0
+e NO1.5 O 20 acougue E1-NO1.5 6805-414
+e NO1.5 O 45 petshop E2-NO1.5 3315-5107
+e NO1.5 O 80 self-service E3-NO1.5 3817-2818
+e NO1.5 L 20 cafeteria E4-NO1.5 9077-7396
+e NO1.5 L 45 imobiliaria E5-NO1.5 8376-6687
+e NO1.5 L 80 xerox E6-NO1.5 7106-6648
+m NO1.5 N 20 Helio673046_da_Silva 4939-9119
+m NO1.5 S 20 Miguel_da_Silva673046 4727-6243
+m NO1.5 N 25 Caio658121_da_Silva 8925-1008
+m NO1.5 S 25 Henrique_da_Silva658121 4127-7131
+m NO1.5 N 35 Henrique164815_da_Silva 9744-8316
+m NO1.5 S 35 Sara_da_Silva164815 7406-3253
+m NO1.5 N 45 Enzo335500_da_Silva 3543-9748
+m NO1.5 S 45 Gabriel_da_Silva335500 2117-8818
+m NO1.5 N 55 Ana877085_da_Silva 8851-8045
+m NO1.5 S 55 Ana_da_Silva877085 7021-11
+m NO1.5 N 70 Debora217807_da_Silva 9039-8612
+m NO1.5 S 70 Fernanda_da_Silva217807 7774-6524
+m NO1.5 N 85 Josefa340743_da_Silva 6181-7526
+m NO1.5 S 85 Ursula_da_Silva340743 5852-1743
+q 1960.0 670.0 100.0 60.0 NO1.6
+h HN-NO1.6 2010.0 730.0
+h HL-NO1.6 1960.0 700.0
+h HS-NO1.6 2010.0 670.0
+h HO-NO1.6 2060.0 700.0
+e NO1.6 O 20 sapataria E1-NO1.6 9969-3413
+e NO1.6 O 45 serralheria E2-NO1.6 2921-5924
+e NO1.6 O 80 pastelaria E3-NO1.6 7114-5326
+e NO1.6 L 20 alfaiataria E4-NO1.6 4117-7257
+e NO1.6 L 45 casa_noturna E5-NO1.6 7517-4607
+e NO1.6 L 80 material_construcao E6-NO1.6 7529-1891
+m NO1.6 N 20 Marina215869_da_Silva 1313-1605
+m NO1.6 S 20 Karina_da_Silva215869 9232-5016
+m NO1.6 N 25 Joao691547_da_Silva 6090-1791
+m NO1.6 S 25 Flavio_da_Silva691547 4837-5602
+m NO1.6 N 35 Luiz_Felipe992445_da_Silva 7102-5826
+m NO1.6 S 35 Rutger_da_Silva992445 6214-5554
+m NO1.6 N 45 Nadir638559_da_Silva 4433-8301
+m NO1.6 S 45 Bruno_da_Silva638559 3301-5628
+m NO1.6 N 55 Rafael74189_da_Silva 6203-1947
+m NO1.6 S 55 Benjamim_da_Silva74189 5626-3441
+m NO1.6 N 70 Marina660668_da_Silva 3351-1112
+m NO1.6 S 70 Melissa_da_Silva660668 9822-4957
+m NO1.6 N 85 Melissa888166_da_Silva 3657-3117
+m NO1.6 S 85 Rafael_da_Silva888166 8606-2365
+q 2070.0 670.0 100.0 60.0 NO1.7
+h HN-NO1.7 2120.0 730.0
+h HL-NO1.7 2070.0 700.0
+e NO1.7 O 20 pub E1-NO1.7 7189-4582
+e NO1.7 O 45 posto_de_abastecimento E2-NO1.7 3298-4969
+e NO1.7 O 80 material_construcao E3-NO1.7 3116-6397
+e NO1.7 L 20 quiosque E4-NO1.7 4025-1240
+e NO1.7 L 45 marcenaria E5-NO1.7 2082-5501
+e NO1.7 L 80 farmacia E6-NO1.7 4068-5321
+m NO1.7 N 20 Jose206476_da_Silva 9274-9186
+m NO1.7 S 20 Berta_da_Silva206476 4907-1484
+m NO1.7 N 25 Antonio569565_da_Silva 4841-6547
+m NO1.7 S 25 Francisco_da_Silva569565 9243-5562
+m NO1.7 N 35 Ursula43139_da_Silva 6700-5873
+m NO1.7 S 35 Fernanda_da_Silva43139 9988-2928
+m NO1.7 N 45 Sara817206_da_Silva 3427-6075
+m NO1.7 S 45 Mariana_da_Silva817206 4672-28
+m NO1.7 N 55 Caio887533_da_Silva 2633-6363
+m NO1.7 S 55 Rafael_da_Silva887533 6512-2660
+m NO1.7 N 70 Paulo933217_da_Silva 3361-3001
+m NO1.7 S 70 Mia_da_Silva933217 6054-9206
+m NO1.7 N 85 Luiz_Felipe503835_da_Silva 6722-8991
+m NO1.7 S 85 Gabriel_da_Silva503835 7874-6584
+q 2180.0 670.0 100.0 60.0 NO1.8
+h HN-NO1.8 2230.0 730.0
+h HL-NO1.8 2180.0 700.0
+h HS-NO1.8 2230.0 670.0
+h HO-NO1.8 2280.0 700.0
+e NO1.8 O 20 serralheria E1-NO1.8 2761-155
+e NO1.8 O 45 gibeteria E2-NO1.8 7399-326
+e NO1.8 O 80 banco E3-NO1.8 5453-7397
+e NO1.8 L 20 papelaria E4-NO1.8 9874-9011
+e NO1.8 L 45 clinica E5-NO1.8 1213-7264
+e NO1.8 L 80 loja_de_brinquedos E6-NO1.8 1795-6145
+m NO1.8 N 20 Francisco789605_da_Silva 1369-4223
+m NO1.8 S 20 Isis_da_Silva789605 8325-853
+m NO1.8 N 25 Zelia174400_da_Silva 2547-1540
+m NO1.8 S 25 Antonio_da_Silva174400 6372-7037
+m NO1.8 N 35 Berta572588_da_Silva 6696-8294
+m NO1.8 S 35 Miguel_da_Silva572588 8322-622
+m NO1.8 N 45 Artur691606_da_Silva 4643-9066
+m NO1.8 S 45 Iara_da_Silva691606 6834-27
+m NO1.8 N 55 Joao545659_da_Silva 4787-2575
+m NO1.8 S 55 Flavio_da_Silva545659 2006-117
+m NO1.8 N 70 Micaela840372_da_Silva 1595-7017
+m NO1.8 S 70 Beatriz_da_Silva840372 2885-9171
+m NO1.8 N 85 Nicole177568_da_Silva 7073-1361
+m NO1.8 S 85 Olavo_da_Silva177568 5380-6921
+q 2290.0 670.0 100.0 60.0 NO1.9
+t RB-NO1.9 2340.0 700.0
+h HN-NO1.9 2340.0 730.0
+h HL-NO1.9 2290.0 700.0
+e NO1.9 O 20 grafica E1-NO1.9 5462-2785
+e NO1.9 O 45 bar E2-NO1.9 7771-1416
+e NO1.9 O 80 escola_idiomas E3-NO1.9 2647-8165
+e NO1.9 L 20 imobiliaria E4-NO1.9 9902-3104
+e NO1.9 L 45 farmacia E5-NO1.9 6081-591
+e NO1.9 L 80 antiquario E6-NO1.9 6108-1173
+m NO1.9 N 20 Gabriel491188_da_Silva 4401-8936
+m NO1.9 S 20 Berta_da_Silva491188 7894-747
+m NO1.9 N 25 Olavo396358_da_Silva 2451-1373
+m NO1.9 S 25 Tais_da_Silva396358 1150-1434
+m NO1.9 N 35 Ursula299286_da_Silva 7310-7105
+m NO1.9 S 35 Zelia_da_Silva299286 2978-2133
+m NO1.9 N 45 Silene64621_da_Silva 8486-3846
+m NO1.9 S 45 Iara_da_Silva64621 3568-8364
+m NO1.9 N 55 Laura608272_da_Silva 7582-55
+m NO1.9 S 55 Mateus_da_Silva608272 8502-8930
+m NO1.9 N 70 Beatriz87912_da_Silva 6242-7026
+m NO1.9 S 70 Clara_da_Silva87912 8253-5622
+m NO1.9 N 85 Francisco181877_da_Silva 5613-6263
+m NO1.9 S 85 Iara_da_Silva181877 5295-2916
+q 2400.0 670.0 100.0 60.0 NO1.10
+h HN-NO1.10 2450.0 730.0
+h HL-NO1.10 2400.0 700.0
+e NO1.10 O 20 funeraria E1-NO1.10 9742-799
+e NO1.10 O 45 farmacia E2-NO1.10 3693-8053
+e NO1.10 O 80 concessionaria_automoveis E3-NO1.10 5981-4338
+e NO1.10 L 20 funeraria E4-NO1.10 5720-209
+e NO1.10 L 45 vidracaria E5-NO1.10 6417-897
+e NO1.10 L 80 banco E6-NO1.10 8090-8972
+m NO1.10 N 20 Fernanda497587_da_Silva 3143-9669
+m NO1.10 S 20 Francisco_da_Silva497587 7872-4854
+m NO1.10 N 25 Jose457572_da_Silva 4002-4881
+m NO1.10 S 25 Tiago_da_Silva457572 3580-4914
+m NO1.10 N 35 Nicole664524_da_Silva 1414-2918
+m NO1.10 S 35 Zelia_da_Silva664524 8127-9354
+m NO1.10 N 45 Silene314244_da_Silva 9365-2644
+m NO1.10 S 45 Olavo_da_Silva314244 3627-6361
+m NO1.10 N 55 Bruno252065_da_Silva 4315-8772
+m NO1.10 S 55 Henrique_da_Silva252065 4347-340
+m NO1.10 N 70 Mariana136469_da_Silva 9351-3191
+m NO1.10 S 70 Pedro Henrique_da_Silva136469 3628-9861
+m NO1.10 N 85 Fernanda867993_da_Silva 9694-3625
+m NO1.10 S 85 Zelia_da_Silva867993 3214-9719
+q 1410.0 740.0 100.0 60.0 NO2.1
+e NO2.1 O 20 atacadista E1-NO2.1 2902-8633
+e NO2.1 O 45 bicicletaria E2-NO2.1 4165-8248
+e NO2.1 O 80 clinica E3-NO2.1 7230-3079
+e NO2.1 L 20 serralheria E4-NO2.1 4540-9945
+e NO2.1 L 45 serralheria E5-NO2.1 8922-7639
+e NO2.1 L 80 quitanda E6-NO2.1 1857-7459
+m NO2.1 N 20 Benjamim717777_da_Silva 2262-5829
+m NO2.1 S 20 Silene_da_Silva717777 2498-8302
+m NO2.1 N 25 Beatriz747682_da_Silva 4230-9719
+m NO2.1 S 25 Brunswichk_da_Silva747682 9912-2489
+m NO2.1 N 35 Nadir453933_da_Silva 8283-1747
+m NO2.1 S 35 Francisco_da_Silva453933 1236-3600
+m NO2.1 N 45 Sara6546_da_Silva 1153-9395
+m NO2.1 S 45 Micaela_da_Silva6546 1371-5872
+m NO2.1 N 55 Caio769226_da_Silva 2510-5303
+m NO2.1 S 55 Rita_da_Silva769226 4945-9774
+m NO2.1 N 70 Micaela184127_da_Silva 3973-2002
+m NO2.1 S 70 Karina_da_Silva184127 4707-7418
+m NO2.1 N 85 Gabriel197351_da_Silva 9566-1075
+m NO2.1 S 85 Olavo_da_Silva197351 8146-6213
+q 1520.0 740.0 100.0 60.0 NO2.2
+e NO2.2 O 20 material_construcao E1-NO2.2 8338-1007
+e NO2.2 O 45 boutique E2-NO2.2 7253-8703
+e NO2.2 O 80 otica E3-NO2.2 6437-9339
+e NO2.2 L 20 loja_de_departamento E4-NO2.2 7457-8215
+e NO2.2 L 45 galeria_de_arte E5-NO2.2 6138-1673
+e NO2.2 L 80 marcenaria E6-NO2.2 7956-6249
+m NO2.2 N 20 Ana780444_da_Silva 6478-1937
+m NO2.2 S 20 Mia_da_Silva780444 8468-5238
+m NO2.2 N 25 Silene594467_da_Silva 1466-4873
+m NO2.2 S 25 Daniel_da_Silva594467 7701-4341
+m NO2.2 N 35 Berta101101_da_Silva 2682-6184
+m NO2.2 S 35 Tiago_da_Silva101101 3875-1844
+m NO2.2 N 45 Caio626823_da_Silva 5139-9990
+m NO2.2 S 45 Paulo_da_Silva626823 2308-3605
+m NO2.2 N 55 Luiz_Felipe614850_da_Silva 8531-9275
+m NO2.2 S 55 Benjamim_da_Silva614850 5017-3239
+m NO2.2 N 70 Ursula685831_da_Silva 1212-3131
+m NO2.2 S 70 Henrique_da_Silva685831 7208-9952
+m NO2.2 N 85 Catarina784433_da_Silva 4656-6056
+m NO2.2 S 85 Henrique_da_Silva784433 1924-971
+q 1630.0 740.0 100.0 60.0 NO2.3
+e NO2.3 O 20 atacadista E1-NO2.3 3789-9994
+e NO2.3 O 45 bar E2-NO2.3 1444-768
+e NO2.3 O 80 quitanda E3-NO2.3 3082-3223
+e NO2.3 L 20 restaurante E4-NO2.3 8945-9386
+e NO2.3 L 45 casa_noturna E5-NO2.3 3974-5346
+e NO2.3 L 80 podologia E6-NO2.3 3784-9301
+m NO2.3 N 20 Heidi535581_da_Silva 6372-1512
+m NO2.3 S 20 Helio_da_Silva535581 1810-170
+m NO2.3 N 25 Carlos_Eduardo375006_da_Silva 2006-9129
+m NO2.3 S 25 Daniel_da_Silva375006 6215-1151
+m NO2.3 N 35 Brunswichk460853_da_Silva 4762-79
+m NO2.3 S 35 Bernardo_da_Silva460853 8381-7377
+m NO2.3 N 45 Pedro148786_da_Silva 3811-3795
+m NO2.3 S 45 Caio_da_Silva148786 2630-1003
+m NO2.3 N 55 Camila443134_da_Silva 9437-1480
+m NO2.3 S 55 Artur_da_Silva443134 7225-5599
+m NO2.3 N 70 Fernanda634865_da_Silva 2100-5653
+m NO2.3 S 70 Rafael_da_Silva634865 9914-4934
+m NO2.3 N 85 Bernardo329279_da_Silva 6492-5795
+m NO2.3 S 85 Silene_da_Silva329279 7214-8117
+q 1740.0 740.0 100.0 60.0 NO2.4
+h HN-NO2.4 1790.0 800.0
+h HL-NO2.4 1740.0 770.0
+h HS-NO2.4 1790.0 740.0
+h HO-NO2.4 1840.0 770.0
+e NO2.4 O 20 material_construcao E1-NO2.4 1504-3542
+e NO2.4 O 45 hipermercado E2-NO2.4 7788-8404
+e NO2.4 O 80 borracharia E3-NO2.4 3526-4278
+e NO2.4 L 20 joalheria E4-NO2.4 9190-6203
+e NO2.4 L 45 gibeteria E5-NO2.4 1396-1294
+e NO2.4 L 80 fliperama E6-NO2.4 5031-1959
+m NO2.4 N 20 Flavio873840_da_Silva 1078-1116
+m NO2.4 S 20 Camila_da_Silva873840 8531-1078
+m NO2.4 N 25 Eduardo917439_da_Silva 3638-3001
+m NO2.4 S 25 Mariana_da_Silva917439 1391-6383
+m NO2.4 N 35 Luiz_Felipe924076_da_Silva 4044-3210
+m NO2.4 S 35 Caio_da_Silva924076 7652-25
+m NO2.4 N 45 Artur454293_da_Silva 4736-3915
+m NO2.4 S 45 Maria_da_Silva454293 7531-5111
+m NO2.4 N 55 Silene604259_da_Silva 2455-2121
+m NO2.4 S 55 Flavio_da_Silva604259 5529-1961
+m NO2.4 N 70 Paulo803585_da_Silva 9609-896
+m NO2.4 S 70 Karina_da_Silva803585 9490-9480
+m NO2.4 N 85 Rafael95488_da_Silva 1508-3646
+m NO2.4 S 85 Henrique_da_Silva95488 3352-3100
+q 1850.0 740.0 100.0 60.0 NO2.5
+e NO2.5 O 20 papelaria E1-NO2.5 2743-5876
+e NO2.5 O 45 loterica E2-NO2.5 6103-2081
+e NO2.5 O 80 emporio E3-NO2.5 9657-2373
+e NO2.5 L 20 agencia_de_viagem E4-NO2.5 2016-6998
+e NO2.5 L 45 banco_de_jornal E5-NO2.5 8119-2689
+e NO2.5 L 80 quiosque E6-NO2.5 8550-3031
+m NO2.5 N 20 Mariana434677_da_Silva 5944-6840
+m NO2.5 S 20 Paulo_da_Silva434677 8630-2538
+m NO2.5 N 25 Caio65764_da_Silva 2835-617
+m NO2.5 S 25 Ana_da_Silva65764 9983-7654
+m NO2.5 N 35 Caio91907_da_Silva 4842-231
+m NO2.5 S 35 Tiago_da_Silva91907 3202-4921
+m NO2.5 N 45 Miguel503504_da_Silva 7478-9617
+m NO2.5 S 45 Paulo_da_Silva503504 9563-448
+m NO2.5 N 55 Maria939963_da_Silva 9392-1748
+m NO2.5 S 55 Henrique_da_Silva939963 1239-7483
+m NO2.5 N 70 Camila879000_da_Silva 2461-1333
+m NO2.5 S 70 Henrique_da_Silva879000 4778-6800
+m NO2.5 N 85 Mateus699391_da_Silva 3282-8676
+m NO2.5 S 85 Daniel_da_Silva699391 8656-2127
+q 1960.0 740.0 100.0 60.0 NO2.6
+t RB-NO2.6 2010.0 770.0
+h HN-NO2.6 2010.0 800.0
+h HL-NO2.6 1960.0 770.0
+e NO2.6 O 20 casa_noturna E1-NO2.6 4395-8699
+e NO2.6 O 45 oficina_mecanica E2-NO2.6 3224-7031
+e NO2.6 O 80 cabeleleiro E3-NO2.6 1327-9420
+e NO2.6 L 20 advocacia E4-NO2.6 5321-5536
+e NO2.6 L 45 posto_de_abastecimento E5-NO2.6 2149-4462
+e NO2.6 L 80 bazar E6-NO2.6 2404-7583
+m NO2.6 N 20 Brunswichk802565_da_Silva 4142-8785
+m NO2.6 S 20 Tais_da_Silva802565 1150-1204
+m NO2.6 N 25 Miguel704695_da_Silva 9288-9837
+m NO2.6 S 25 Heidi_da_Silva704695 7404-9731
+m NO2.6 N 35 Larissa716977_da_Silva 5341-8422
+m NO2.6 S 35 Silvio_da_Silva716977 1673-1333
+m NO2.6 N 45 Jose703700_da_Silva 2601-8032
+m NO2.6 S 45 Zelia_da_Silva703700 1505-5807
+m NO2.6 N 55 Karina554838_da_Silva 5264-4226
+m NO2.6 S 55 Benjamim_da_Silva554838 5082-115
+m NO2.6 N 70 Pedro Henrique948014_da_Silva 8680-7924
+m NO2.6 S 70 Bruno_da_Silva948014 5082-2892
+m NO2.6 N 85 Paulo748344_da_Silva 7950-2634
+m NO2.6 S 85 Mariana_da_Silva748344 5787-1137
+q 2070.0 740.0 100.0 60.0 NO2.7
+h HN-NO2.7 2120.0 800.0
+h HL-NO2.7 2070.0 770.0
+e NO2.7 O 20 advocacia E1-NO2.7 9963-4096
+e NO2.7 O 45 cinema E2-NO2.7 6137-7369
+e NO2.7 O 80 tabacaria E3-NO2.7 5128-1534
+e NO2.7 L 20 imobiliaria E4-NO2.7 1378-8937
+e NO2.7 L 45 funeraria E5-NO2.7 6847-5671
+e NO2.7 L 80 emporio E6-NO2.7 3773-4921
+m NO2.7 N 20 Camila19145_da_Silva 3783-7498
+m NO2.7 S 20 Beatriz_da_Silva19145 3881-6805
+m NO2.7 N 25 Mia967782_da_Silva 4420-4305
+m NO2.7 S 25 Pedro_da_Silva967782 8418-4906
+m NO2.7 N 35 Daniel296593_da_Silva 9781-3056
+m NO2.7 S 35 Luiz_Felipe_da_Silva296593 3879-3939
+m NO2.7 N 45 Daniel880873_da_Silva 4729-7146
+m NO2.7 S 45 Debora_da_Silva880873 6906-4902
+m NO2.7 N 55 Caio552858_da_Silva 1726-6610
+m NO2.7 S 55 Daniel_da_Silva552858 7493-8368
+m NO2.7 N 70 Heidi136737_da_Silva 3075-4356
+m NO2.7 S 70 Josefa_da_Silva136737 8585-7595
+m NO2.7 N 85 Rita339263_da_Silva 9621-1540
+m NO2.7 S 85 Pedro_da_Silva339263 5147-3036
+q 2180.0 740.0 100.0 60.0 NO2.8
+e NO2.8 O 20 material_construcao E1-NO2.8 4367-2146
+e NO2.8 O 45 fliperama E2-NO2.8 3382-7212
+e NO2.8 O 80 clinica E3-NO2.8 5153-3279
+e NO2.8 L 20 papelaria E4-NO2.8 3001-9107
+e NO2.8 L 45 tabacaria E5-NO2.8 6357-43
+e NO2.8 L 80 agencia_de_viagem E6-NO2.8 3839-3711
+m NO2.8 N 20 Pedro Henrique340809_da_Silva 9014-5575
+m NO2.8 S 20 Bernardo_da_Silva340809 1090-2291
+m NO2.8 N 25 Iara808723_da_Silva 2751-1142
+m NO2.8 S 25 Flavio_da_Silva808723 4568-1047
+m NO2.8 N 35 Gabriel295015_da_Silva 1805-2378
+m NO2.8 S 35 Camila_da_Silva295015 9138-5846
+m NO2.8 N 45 Antonio438414_da_Silva 6971-853
+m NO2.8 S 45 Joana_da_Silva438414 3679-7419
+m NO2.8 N 55 Brunswichk229939_da_Silva 6613-70
+m NO2.8 S 55 Ana_da_Silva229939 5895-8592
+m NO2.8 N 70 Miguel6585_da_Silva 3491-5718
+m NO2.8 S 70 Ana_da_Silva6585 1775-920
+m NO2.8 N 85 Helio340423_da_Silva 3458-5389
+m NO2.8 S 85 Mia_da_Silva340423 9217-3503
+q 2290.0 740.0 100.0 60.0 NO2.9
+e NO2.9 O 20 sorveteria E1-NO2.9 7271-648
+e NO2.9 O 45 gibeteria E2-NO2.9 9151-8520
+e NO2.9 O 80 galeria_de_arte E3-NO2.9 8665-6235
+e NO2.9 L 20 cabeleleiro E4-NO2.9 4611-937
+e NO2.9 L 45 antiquario E5-NO2.9 3306-1844
+e NO2.9 L 80 loja_de_conveniencia E6-NO2.9 7481-7891
+m NO2.9 N 20 Laura281895_da_Silva 4142-6920
+m NO2.9 S 20 Marina_da_Silva281895 3590-5903
+m NO2.9 N 25 Sara156562_da_Silva 4688-8568
+m NO2.9 S 25 Benjamim_da_Silva156562 8481-1078
+m NO2.9 N 35 Carlos_Eduardo922916_da_Silva 5149-6040
+m NO2.9 S 35 Catarina_da_Silva922916 5233-7193
+m NO2.9 N 45 Mateus621798_da_Silva 1753-4396
+m NO2.9 S 45 Bruno_da_Silva621798 6562-2145
+m NO2.9 N 55 Gabriela106257_da_Silva 7792-6556
+m NO2.9 S 55 Rita_da_Silva106257 9943-3270
+m NO2.9 N 70 Mateus638810_da_Silva 7581-1073
+m NO2.9 S 70 Mariana_da_Silva638810 7791-6932
+m NO2.9 N 85 Melissa753296_da_Silva 2909-603
+m NO2.9 S 85 Paulo_da_Silva753296 7783-6897
+q 2400.0 740.0 100.0 60.0 NO2.10
+h HN-NO2.10 2450.0 800.0
+h HL-NO2.10 2400.0 770.0
+h HS-NO2.10 2450.0 740.0
+h HO-NO2.10 2500.0 770.0
+e NO2.10 O 20 loterica E1-NO2.10 1333-831
+e NO2.10 O 45 lava_rapido E2-NO2.10 5716-3286
+e NO2.10 O 80 casa_noturna E3-NO2.10 1692-4497
+e NO2.10 L 20 hipermercado E4-NO2.10 6865-543
+e NO2.10 L 45 salao_de_beleza E5-NO2.10 5931-199
+e NO2.10 L 80 quitanda E6-NO2.10 9174-1540
+m NO2.10 N 20 Berta259751_da_Silva 6038-3159
+m NO2.10 S 20 Pedro Henrique_da_Silva259751 2502-7791
+m NO2.10 N 25 Rafael11278_da_Silva 2466-5335
+m NO2.10 S 25 Jose_da_Silva11278 6948-2432
+m NO2.10 N 35 Carlos_Eduardo996263_da_Silva 7623-6423
+m NO2.10 S 35 Fernanda_da_Silva996263 2488-9521
+m NO2.10 N 45 Isis358974_da_Silva 1101-8094
+m NO2.10 S 45 Joana_da_Silva358974 5796-6725
+m NO2.10 N 55 Paulo309935_da_Silva 5338-2817
+m NO2.10 S 55 Brunswichk_da_Silva309935 2346-2541
+m NO2.10 N 70 Bianca254070_da_Silva 9094-3234
+m NO2.10 S 70 Heidi_da_Silva254070 2629-2291
+m NO2.10 N 85 Luiz_Felipe392686_da_Silva 2012-4933
+m NO2.10 S 85 Silvio_da_Silva392686 4768-7839
+q 1410.0 810.0 100.0 60.0 NO3.1
+e NO3.1 O 20 sapataria E1-NO3.1 4698-3022
+e NO3.1 O 45 loja E2-NO3.1 8698-3891
+e NO3.1 O 80 supermercado E3-NO3.1 7392-6798
+e NO3.1 L 20 lavanderia E4-NO3.1 1134-9497
+e NO3.1 L 45 marcenaria E5-NO3.1 7878-321
+e NO3.1 L 80 escola_bale E6-NO3.1 9958-2218
+m NO3.1 N 20 Tiago913038_da_Silva 4600-9390
+m NO3.1 S 20 Clara_da_Silva913038 6581-4715
+m NO3.1 N 25 Beatriz735829_da_Silva 9969-8536
+m NO3.1 S 25 Marina_da_Silva735829 8528-5510
+m NO3.1 N 35 Rutger328962_da_Silva 4990-4943
+m NO3.1 S 35 Catarina_da_Silva328962 1108-620
+m NO3.1 N 45 Josefa729813_da_Silva 4558-9886
+m NO3.1 S 45 Fernanda_da_Silva729813 8334-5582
+m NO3.1 N 55 Marina270812_da_Silva 1355-1196
+m NO3.1 S 55 Bianca_da_Silva270812 1370-14
+m NO3.1 N 70 Iara775485_da_Silva 9639-6426
+m NO3.1 S 70 Beatriz_da_Silva775485 5892-3757
+m NO3.1 N 85 Ursula548475_da_Silva 5445-6806
+m NO3.1 S 85 Caio_da_Silva548475 3807-8922
+q 1520.0 810.0 100.0 60.0 NO3.2
+h HN-NO3.2 1570.0 870.0
+h HL-NO3.2 1520.0 840.0
+e NO3.2 O 20 atacadista E1-NO3.2 7245-426
+e NO3.2 O 45 banco E2-NO3.2 5195-5898
+e NO3.2 O 80 bicicletaria E3-NO3.2 5091-1458
+e NO3.2 L 20 contabilidade E4-NO3.2 9392-5040
+e NO3.2 L 45 lavanderia E5-NO3.2 5188-1708
+e NO3.2 L 80 loja_de_brinquedos E6-NO3.2 2017-593
+m NO3.2 N 20 Bruno670076_da_Silva 9442-9538
+m NO3.2 S 20 Paulo_da_Silva670076 4571-9293
+m NO3.2 N 25 Ana869212_da_Silva 9734-1875
+m NO3.2 S 25 Eduardo_da_Silva869212 8227-5074
+m NO3.2 N 35 Zelia775040_da_Silva 8374-7652
+m NO3.2 S 35 Mia_da_Silva775040 6358-1361
+m NO3.2 N 45 Josefa49306_da_Silva 6446-4185
+m NO3.2 S 45 Mateus_da_Silva49306 6587-4946
+m NO3.2 N 55 Gabriela875609_da_Silva 3929-3423
+m NO3.2 S 55 Debora_da_Silva875609 5368-1858
+m NO3.2 N 70 Paulo796424_da_Silva 8279-9467
+m NO3.2 S 70 Antonio_da_Silva796424 3777-9864
+m NO3.2 N 85 Clara877848_da_Silva 7889-220
+m NO3.2 S 85 Pedro Henrique_da_Silva877848 7005-1703
+q 1630.0 810.0 100.0 60.0 NO3.3
+e NO3.3 O 20 borracharia E1-NO3.3 3647-2368
+e NO3.3 O 45 agencia_de_viagem E2-NO3.3 4493-2430
+e NO3.3 O 80 agencia_de_viagem E3-NO3.3 1903-8697
+e NO3.3 L 20 clinica E4-NO3.3 8384-5581
+e NO3.3 L 45 imobiliaria E5-NO3.3 2738-6494
+e NO3.3 L 80 xerox E6-NO3.3 3353-2336
+m NO3.3 N 20 Maria105248_da_Silva 6572-7486
+m NO3.3 S 20 Fernanda_da_Silva105248 8562-1658
+m NO3.3 N 25 Amanda594619_da_Silva 8962-5
+m NO3.3 S 25 Fernanda_da_Silva594619 5335-1478
+m NO3.3 N 35 Mateus535797_da_Silva 4487-8597
+m NO3.3 S 35 Joana_da_Silva535797 8357-2533
+m NO3.3 N 45 Camila837995_da_Silva 7858-8712
+m NO3.3 S 45 Joao_da_Silva837995 3545-6959
+m NO3.3 N 55 Ana682778_da_Silva 1650-7531
+m NO3.3 S 55 Luiz_Felipe_da_Silva682778 1805-646
+m NO3.3 N 70 Laura821926_da_Silva 7253-3532
+m NO3.3 S 70 Marina_da_Silva821926 6662-9251
+m NO3.3 N 85 Bernardo245571_da_Silva 4544-1615
+m NO3.3 S 85 Larissa_da_Silva245571 1248-8215
+q 1740.0 810.0 100.0 60.0 NO3.4
+h HN-NO3.4 1790.0 870.0
+h HL-NO3.4 1740.0 840.0
+e NO3.4 O 20 loterica E1-NO3.4 5399-2083
+e NO3.4 O 45 alfaiataria E2-NO3.4 4573-1154
+e NO3.4 O 80 pastelaria E3-NO3.4 4223-1314
+e NO3.4 L 20 bar E4-NO3.4 8578-1478
+e NO3.4 L 45 borracharia E5-NO3.4 9458-4079
+e NO3.4 L 80 sapataria E6-NO3.4 5010-3554
+m NO3.4 N 20 Bianca363452_da_Silva 9421-864
+m NO3.4 S 20 Antonio_da_Silva363452 1635-4600
+m NO3.4 N 25 Olavo117132_da_Silva 9429-7172
+m NO3.4 S 25 Enzo_da_Silva117132 1148-5258
+m NO3.4 N 35 Iara837368_da_Silva 1559-6678
+m NO3.4 S 35 Olavo_da_Silva837368 9966-248
+m NO3.4 N 45 Benjamim784686_da_Silva 7082-157
+m NO3.4 S 45 Gabriela_da_Silva784686 7195-8687
+m NO3.4 N 55 Silvio229956_da_Silva 1791-2192
+m NO3.4 S 55 Caio_da_Silva229956 2037-5386
+m NO3.4 N 70 Nicole135641_da_Silva 3038-9129
+m NO3.4 S 70 Benjamim_da_Silva135641 4816-4777
+m NO3.4 N 85 Josefa297961_da_Silva 5798-2979
+m NO3.4 S 85 Rafael_da_Silva297961 7688-235
+q 1850.0 810.0 100.0 60.0 NO3.5
+e NO3.5 O 20 cabeleleiro E1-NO3.5 6976-6730
+e NO3.5 O 45 posto_de_abastecimento E2-NO3.5 7974-4291
+e NO3.5 O 80 escola_idiomas E3-NO3.5 5223-87
+e NO3.5 L 20 drogaria E4-NO3.5 3956-4368
+e NO3.5 L 45 casa_noturna E5-NO3.5 5773-3544
+e NO3.5 L 80 farmacia E6-NO3.5 9230-9530
+m NO3.5 N 20 Brunswichk448068_da_Silva 1518-521
+m NO3.5 S 20 Amanda_da_Silva448068 9509-2177
+m NO3.5 N 25 Paulo942764_da_Silva 4674-6924
+m NO3.5 S 25 Paulo_da_Silva942764 6657-2049
+m NO3.5 N 35 Eduardo273782_da_Silva 7952-473
+m NO3.5 S 35 Brunswichk_da_Silva273782 3510-5780
+m NO3.5 N 45 Paulo795287_da_Silva 4972-5552
+m NO3.5 S 45 Debora_da_Silva795287 4311-4739
+m NO3.5 N 55 Carlos_Eduardo443519_da_Silva 5224-40
+m NO3.5 S 55 Nadir_da_Silva443519 2250-1789
+m NO3.5 N 70 Carlos_Eduardo113643_da_Silva 4861-5704
+m NO3.5 S 70 Camila_da_Silva113643 8100-2731
+m NO3.5 N 85 Laura99886_da_Silva 7622-4630
+m NO3.5 S 85 Marina_da_Silva99886 1309-9763
+q 1960.0 810.0 100.0 60.0 NO3.6
+e NO3.6 O 20 clinica E1-NO3.6 9370-935
+e NO3.6 O 45 bricabraque E2-NO3.6 9939-5749
+e NO3.6 O 80 mercearia E3-NO3.6 9777-4327
+e NO3.6 L 20 loja E4-NO3.6 7362-4334
+e NO3.6 L 45 marcenaria E5-NO3.6 4770-5524
+e NO3.6 L 80 contabilidade E6-NO3.6 2638-6350
+m NO3.6 N 20 Marina412356_da_Silva 1090-7015
+m NO3.6 S 20 Caio_da_Silva412356 4697-7022
+m NO3.6 N 25 Bianca149334_da_Silva 8714-5535
+m NO3.6 S 25 Ana_da_Silva149334 6575-1382
+m NO3.6 N 35 Larissa726314_da_Silva 2966-6401
+m NO3.6 S 35 Luiz_Felipe_da_Silva726314 1035-5325
+m NO3.6 N 45 Rutger829863_da_Silva 4214-1576
+m NO3.6 S 45 Maria_da_Silva829863 3177-6153
+m NO3.6 N 55 Benjamim723802_da_Silva 6023-7992
+m NO3.6 S 55 Pedro_da_Silva723802 5348-6101
+m NO3.6 N 70 Camila829333_da_Silva 2142-4994
+m NO3.6 S 70 Iara_da_Silva829333 8276-8294
+m NO3.6 N 85 Bianca702254_da_Silva 8834-3859
+m NO3.6 S 85 Silene_da_Silva702254 9208-953
+q 2070.0 810.0 100.0 60.0 NO3.7
+h HN-NO3.7 2120.0 870.0
+h HL-NO3.7 2070.0 840.0
+e NO3.7 O 20 quiosque E1-NO3.7 9245-4791
+e NO3.7 O 45 emporio E2-NO3.7 2646-4026
+e NO3.7 O 80 loja_de_conveniencia E3-NO3.7 1128-9282
+e NO3.7 L 20 livraria E4-NO3.7 9243-5663
+e NO3.7 L 45 imobiliaria E5-NO3.7 8863-7123
+e NO3.7 L 80 restaurante E6-NO3.7 4800-4764
+m NO3.7 N 20 Mariana858208_da_Silva 4826-1795
+m NO3.7 S 20 Bruno_da_Silva858208 7366-4904
+m NO3.7 N 25 Heidi488379_da_Silva 1988-839
+m NO3.7 S 25 Joao_da_Silva488379 4802-8335
+m NO3.7 N 35 Joana748950_da_Silva 8523-86
+m NO3.7 S 35 Luiz_Felipe_da_Silva748950 5781-8184
+m NO3.7 N 45 Mariana831925_da_Silva 6958-9181
+m NO3.7 S 45 Olavo_da_Silva831925 1309-6392
+m NO3.7 N 55 Nadir725949_da_Silva 8711-7039
+m NO3.7 S 55 Enzo_da_Silva725949 3424-9980
+m NO3.7 N 70 Isis576377_da_Silva 3940-8826
+m NO3.7 S 70 Clara_da_Silva576377 3978-4034
+m NO3.7 N 85 Luiz_Felipe251769_da_Silva 8038-2052
+m NO3.7 S 85 Josefa_da_Silva251769 1397-7103
+q 2180.0 810.0 100.0 60.0 NO3.8
+e NO3.8 O 20 podologia E1-NO3.8 6965-8662
+e NO3.8 O 45 alfaiataria E2-NO3.8 5466-1465
+e NO3.8 O 80 emporio E3-NO3.8 5569-8901
+e NO3.8 L 20 atacadista E4-NO3.8 2670-7142
+e NO3.8 L 45 laboratorio_de_analises_clinicas E5-NO3.8 2727-5394
+e NO3.8 L 80 loja_de_brinquedos E6-NO3.8 9436-42
+m NO3.8 N 20 Helio770988_da_Silva 9448-6590
+m NO3.8 S 20 Laura_da_Silva770988 4963-779
+m NO3.8 N 25 Silene281835_da_Silva 7447-1917
+m NO3.8 S 25 Iara_da_Silva281835 4824-7459
+m NO3.8 N 35 Zelia829906_da_Silva 1836-3190
+m NO3.8 S 35 Joao_da_Silva829906 7366-2503
+m NO3.8 N 45 Antonio894392_da_Silva 9524-3879
+m NO3.8 S 45 Zelia_da_Silva894392 8253-2537
+m NO3.8 N 55 Tiago419575_da_Silva 6801-5069
+m NO3.8 S 55 Isis_da_Silva419575 8825-1054
+m NO3.8 N 70 Bianca979689_da_Silva 3039-3080
+m NO3.8 S 70 Joana_da_Silva979689 1694-9994
+m NO3.8 N 85 Ursula773384_da_Silva 4435-1491
+m NO3.8 S 85 Amanda_da_Silva773384 1150-2893
+q 2290.0 810.0 100.0 60.0 NO3.9
+e NO3.9 O 20 farmacia E1-NO3.9 9737-4463
+e NO3.9 O 45 brecho E2-NO3.9 6106-2864
+e NO3.9 O 80 loja_de_departamento E3-NO3.9 5262-5369
+e NO3.9 L 20 serralheria E4-NO3.9 3893-8673
+e NO3.9 L 45 acougue E5-NO3.9 9165-5027
+e NO3.9 L 80 bricabraque E6-NO3.9 1601-9414
+m NO3.9 N 20 Caio11606_da_Silva 6979-9486
+m NO3.9 S 20 Paulo_da_Silva11606 4795-8524
+m NO3.9 N 25 Gabriel647301_da_Silva 4680-3554
+m NO3.9 S 25 Carlos_Eduardo_da_Silva647301 4034-9416
+m NO3.9 N 35 Heidi586989_da_Silva 2939-1019
+m NO3.9 S 35 Antonio_da_Silva586989 5524-2875
+m NO3.9 N 45 Bianca508381_da_Silva 6218-2043
+m NO3.9 S 45 Micaela_da_Silva508381 5688-2850
+m NO3.9 N 55 Rita171958_da_Silva 9222-6938
+m NO3.9 S 55 Laura_da_Silva171958 2043-2754
+m NO3.9 N 70 Bianca647770_da_Silva 4762-1968
+m NO3.9 S 70 Rutger_da_Silva647770 5565-7321
+m NO3.9 N 85 Flavio387675_da_Silva 8059-7425
+m NO3.9 S 85 Rafael_da_Silva387675 5971-8399
+q 2400.0 810.0 100.0 60.0 NO3.10
+h HN-NO3.10 2450.0 870.0
+h HL-NO3.10 2400.0 840.0
+e NO3.10 O 20 mercado_municipal E1-NO3.10 3825-3869
+e NO3.10 O 45 alfaiataria E2-NO3.10 6446-7293
+e NO3.10 O 80 podologia E3-NO3.10 6320-4269
+e NO3.10 L 20 loja E4-NO3.10 6843-5415
+e NO3.10 L 45 mercearia E5-NO3.10 4442-1422
+e NO3.10 L 80 contabilidade E6-NO3.10 9847-6456
+m NO3.10 N 20 Camila888263_da_Silva 7698-5903
+m NO3.10 S 20 Rita_da_Silva888263 3243-1725
+m NO3.10 N 25 Iara178554_da_Silva 2553-2577
+m NO3.10 S 25 Zelia_da_Silva178554 9450-319
+m NO3.10 N 35 Debora15484_da_Silva 7863-4549
+m NO3.10 S 35 Tais_da_Silva15484 9767-1386
+m NO3.10 N 45 Josefa657892_da_Silva 7530-608
+m NO3.10 S 45 Francisco_da_Silva657892 9562-9093
+m NO3.10 N 55 Brunswichk573863_da_Silva 8374-2413
+m NO3.10 S 55 Heidi_da_Silva573863 6910-9679
+m NO3.10 N 70 Mateus886590_da_Silva 8356-1918
+m NO3.10 S 70 Brunswichk_da_Silva886590 9959-4994
+m NO3.10 N 85 Helio270529_da_Silva 6510-4446
+m NO3.10 S 85 Enzo_da_Silva270529 5688-8709
+q 1410.0 880.0 100.0 60.0 NO4.1
+t RB-NO4.1 1460.0 910.0
+e NO4.1 O 20 hipermercado E1-NO4.1 5686-3512
+e NO4.1 O 45 oficina_eletronica E2-NO4.1 7440-427
+e NO4.1 O 80 padaria E3-NO4.1 9541-6562
+e NO4.1 L 20 petshop E4-NO4.1 5042-5481
+e NO4.1 L 45 hipermercado E5-NO4.1 9532-1054
+e NO4.1 L 80 loja_de_departamento E6-NO4.1 4194-7500
+m NO4.1 N 20 Laura374953_da_Silva 8505-5306
+m NO4.1 S 20 Benjamim_da_Silva374953 7236-8258
+m NO4.1 N 25 Daniel741316_da_Silva 3402-6613
+m NO4.1 S 25 Francisco_da_Silva741316 7379-1681
+m NO4.1 N 35 Josefa226970_da_Silva 7478-4119
+m NO4.1 S 35 Sara_da_Silva226970 5368-6354
+m NO4.1 N 45 Ana632921_da_Silva 1114-9993
+m NO4.1 S 45 Isis_da_Silva632921 5945-679
+m NO4.1 N 55 Catarina397367_da_Silva 2059-3295
+m NO4.1 S 55 Gabriela_da_Silva397367 6752-3649
+m NO4.1 N 70 Berta630699_da_Silva 9021-9455
+m NO4.1 S 70 Bruno_da_Silva630699 9392-8776
+m NO4.1 N 85 Rita265920_da_Silva 7281-7226
+m NO4.1 S 85 Caio_da_Silva265920 9816-1842
+q 1520.0 880.0 100.0 60.0 NO4.2
+h HN-NO4.2 1570.0 940.0
+h HL-NO4.2 1520.0 910.0
+e NO4.2 O 20 quiosque E1-NO4.2 6601-4102
+e NO4.2 O 45 mercearia E2-NO4.2 2561-3842
+e NO4.2 O 80 boutique E3-NO4.2 4668-8600
+e NO4.2 L 20 casa_noturna E4-NO4.2 4409-1820
+e NO4.2 L 45 gibeteria E5-NO4.2 9094-4851
+e NO4.2 L 80 imobiliaria E6-NO4.2 8047-5249
+m NO4.2 N 20 Debora537106_da_Silva 2602-4720
+m NO4.2 S 20 Pedro_da_Silva537106 1800-3088
+m NO4.2 N 25 Amanda31178_da_Silva 1340-5709
+m NO4.2 S 25 Maria_da_Silva31178 3542-7595
+m NO4.2 N 35 Pedro703524_da_Silva 8737-7003
+m NO4.2 S 35 Rutger_da_Silva703524 9339-5488
+m NO4.2 N 45 Heidi195547_da_Silva 1937-7649
+m NO4.2 S 45 Caio_da_Silva195547 4127-826
+m NO4.2 N 55 Eduardo124545_da_Silva 8508-5482
+m NO4.2 S 55 Larissa_da_Silva124545 7211-7155
+m NO4.2 N 70 Pedro667996_da_Silva 2452-5670
+m NO4.2 S 70 Flavio_da_Silva667996 3620-2811
+m NO4.2 N 85 Beatriz23477_da_Silva 4176-5567
+m NO4.2 S 85 Carlos_Eduardo_da_Silva23477 9263-7918
+q 1630.0 880.0 100.0 60.0 NO4.3
+e NO4.3 O 20 sorveteria E1-NO4.3 7592-8886
+e NO4.3 O 45 gibeteria E2-NO4.3 7724-9814
+e NO4.3 O 80 advocacia E3-NO4.3 1656-5250
+e NO4.3 L 20 pub E4-NO4.3 1450-4524
+e NO4.3 L 45 clinica E5-NO4.3 9459-2942
+e NO4.3 L 80 advocacia E6-NO4.3 4013-7718
+m NO4.3 N 20 Nicole50551_da_Silva 2720-6017
+m NO4.3 S 20 Benjamim_da_Silva50551 2158-4777
+m NO4.3 N 25 Iara560122_da_Silva 8487-4711
+m NO4.3 S 25 Paulo_da_Silva560122 1605-1578
+m NO4.3 N 35 Rita859361_da_Silva 5692-3890
+m NO4.3 S 35 Camila_da_Silva859361 9101-4769
+m NO4.3 N 45 Bernardo827547_da_Silva 9237-1400
+m NO4.3 S 45 Micaela_da_Silva827547 9661-3143
+m NO4.3 N 55 Josefa102360_da_Silva 6839-4232
+m NO4.3 S 55 Rita_da_Silva102360 4162-4513
+m NO4.3 N 70 Paulo723531_da_Silva 3507-6349
+m NO4.3 S 70 Nadir_da_Silva723531 8469-5242
+m NO4.3 N 85 Melissa676293_da_Silva 5647-6979
+m NO4.3 S 85 Ana_da_Silva676293 2467-2293
+q 1740.0 880.0 100.0 60.0 NO4.4
+t RB-NO4.4 1790.0 910.0
+e NO4.4 O 20 galeria_de_arte E1-NO4.4 9070-9751
+e NO4.4 O 45 acougue E2-NO4.4 7261-6525
+e NO4.4 O 80 funeraria E3-NO4.4 2553-6359
+e NO4.4 L 20 loja_de_brinquedos E4-NO4.4 7806-3954
+e NO4.4 L 45 loterica E5-NO4.4 4156-9787
+e NO4.4 L 80 otica E6-NO4.4 3746-4010
+m NO4.4 N 20 Gabriel453209_da_Silva 2001-1253
+m NO4.4 S 20 Catarina_da_Silva453209 3280-5448
+m NO4.4 N 25 Debora98730_da_Silva 9185-4798
+m NO4.4 S 25 Henrique_da_Silva98730 2907-5450
+m NO4.4 N 35 Benjamim969533_da_Silva 2750-490
+m NO4.4 S 35 Mia_da_Silva969533 9482-5205
+m NO4.4 N 45 Marina696024_da_Silva 4883-4481
+m NO4.4 S 45 Josefa_da_Silva696024 2169-2610
+m NO4.4 N 55 Olavo850115_da_Silva 7112-7149
+m NO4.4 S 55 Flavio_da_Silva850115 2953-7634
+m NO4.4 N 70 Caio72343_da_Silva 4116-9866
+m NO4.4 S 70 Ana_da_Silva72343 2113-1730
+m NO4.4 N 85 Mateus551411_da_Silva 8909-9351
+m NO4.4 S 85 Silvio_da_Silva551411 6185-6752
+q 1850.0 880.0 100.0 60.0 NO4.5
+e NO4.5 O 20 oficina_eletronica E1-NO4.5 3211-9310
+e NO4.5 O 45 mercearia E2-NO4.5 8245-9134
+e NO4.5 O 80 papelaria E3-NO4.5 8719-1813
+e NO4.5 L 20 lavanderia E4-NO4.5 9045-7764
+e NO4.5 L 45 bazar E5-NO4.5 6018-3231
+e NO4.5 L 80 pastelaria E6-NO4.5 3490-2967
+m NO4.5 N 20 Olavo166403_da_Silva 6250-8606
+m NO4.5 S 20 Beatriz_da_Silva166403 5542-5795
+m NO4.5 N 25 Clara914110_da_Silva 3627-1371
+m NO4.5 S 25 Isis_da_Silva914110 6611-2462
+m NO4.5 N 35 Nicole745832_da_Silva 2550-2992
+m NO4.5 S 35 Marina_da_Silva745832 6327-4933
+m NO4.5 N 45 Miguel499418_da_Silva 5962-4193
+m NO4.5 S 45 Gabriela_da_Silva499418 5810-3437
+m NO4.5 N 55 Silene6605_da_Silva 9808-2922
+m NO4.5 S 55 Francisco_da_Silva6605 8092-158
+m NO4.5 N 70 Larissa181272_da_Silva 5008-1871
+m NO4.5 S 70 Amanda_da_Silva181272 4144-8198
+m NO4.5 N 85 Nadir330112_da_Silva 4618-7935
+m NO4.5 S 85 Berta_da_Silva330112 6726-1922
+q 1960.0 880.0 100.0 60.0 NO4.6
+h HN-NO4.6 2010.0 940.0
+h HL-NO4.6 1960.0 910.0
+h HS-NO4.6 2010.0 880.0
+h HO-NO4.6 2060.0 910.0
+e NO4.6 O 20 mercado_municipal E1-NO4.6 5831-8229
+e NO4.6 O 45 bar E2-NO4.6 8452-4354
+e NO4.6 O 80 farmacia E3-NO4.6 7570-4076
+e NO4.6 L 20 bazar E4-NO4.6 2020-1141
+e NO4.6 L 45 sapataria E5-NO4.6 3049-2424
+e NO4.6 L 80 boutique E6-NO4.6 3229-3470
+m NO4.6 N 20 Maria510497_da_Silva 8329-8596
+m NO4.6 S 20 Zelia_da_Silva510497 9965-3060
+m NO4.6 N 25 Flavio945702_da_Silva 5224-7299
+m NO4.6 S 25 Marina_da_Silva945702 7118-8424
+m NO4.6 N 35 Nadir637499_da_Silva 7923-6179
+m NO4.6 S 35 Tais_da_Silva637499 5033-6829
+m NO4.6 N 45 Paulo914804_da_Silva 2952-8506
+m NO4.6 S 45 Tais_da_Silva914804 7259-8243
+m NO4.6 N 55 Laura960301_da_Silva 3941-7423
+m NO4.6 S 55 Luiz_Felipe_da_Silva960301 5785-4084
+m NO4.6 N 70 Clara427540_da_Silva 5956-4120
+m NO4.6 S 70 Silvio_da_Silva427540 2432-23
+m NO4.6 N 85 Caio227555_da_Silva 4950-1775
+m NO4.6 S 85 Rita_da_Silva227555 1741-2721
+q 2070.0 880.0 100.0 60.0 NO4.7
+t RB-NO4.7 2120.0 910.0
+h HN-NO4.7 2120.0 940.0
+h HL-NO4.7 2070.0 910.0
+e NO4.7 O 20 casa_noturna E1-NO4.7 5585-8375
+e NO4.7 O 45 conservatorio_musical E2-NO4.7 8669-6700
+e NO4.7 O 80 bazar E3-NO4.7 6188-9400
+e NO4.7 L 20 padaria E4-NO4.7 1770-3695
+e NO4.7 L 45 cinema E5-NO4.7 7982-6116
+e NO4.7 L 80 contabilidade E6-NO4.7 8254-2830
+m NO4.7 N 20 Karina946308_da_Silva 1573-9184
+m NO4.7 S 20 Mariana_da_Silva946308 8654-3233
+m NO4.7 N 25 Joana585111_da_Silva 6591-9592
+m NO4.7 S 25 Joana_da_Silva585111 3424-4400
+m NO4.7 N 35 Helio388680_da_Silva 3941-3329
+m NO4.7 S 35 Caio_da_Silva388680 6403-323
+m NO4.7 N 45 Caio700782_da_Silva 7639-6675
+m NO4.7 S 45 Silene_da_Silva700782 7098-4176
+m NO4.7 N 55 Miguel217868_da_Silva 1316-5080
+m NO4.7 S 55 Mariana_da_Silva217868 4866-6757
+m NO4.7 N 70 Marina198046_da_Silva 2451-4016
+m NO4.7 S 70 Joana_da_Silva198046 8407-4026
+m NO4.7 N 85 Daniel340034_da_Silva 4260-8165
+m NO4.7 S 85 Eduardo_da_Silva340034 3391-9166
+q 2180.0 880.0 100.0 60.0 NO4.8
+e NO4.8 O 20 borracharia E1-NO4.8 8576-1685
+e NO4.8 O 45 joalheria E2-NO4.8 7184-2701
+e NO4.8 O 80 escola_bale E3-NO4.8 8583-5114
+e NO4.8 L 20 bicicletaria E4-NO4.8 5515-1066
+e NO4.8 L 45 clinica E5-NO4.8 2191-8936
+e NO4.8 L 80 conservatorio_musical E6-NO4.8 1988-9570
+m NO4.8 N 20 Gabriel909613_da_Silva 9928-7014
+m NO4.8 S 20 Daniel_da_Silva909613 6362-448
+m NO4.8 N 25 Pedro Henrique28069_da_Silva 6959-3272
+m NO4.8 S 25 Silvio_da_Silva28069 7898-4258
+m NO4.8 N 35 Rita719139_da_Silva 3552-8026
+m NO4.8 S 35 Bianca_da_Silva719139 1016-4732
+m NO4.8 N 45 Larissa989024_da_Silva 7610-5909
+m NO4.8 S 45 Clara_da_Silva989024 3730-3114
+m NO4.8 N 55 Bianca645894_da_Silva 1615-2735
+m NO4.8 S 55 Berta_da_Silva645894 2722-8900
+m NO4.8 N 70 Daniel862241_da_Silva 2520-4340
+m NO4.8 S 70 Bruno_da_Silva862241 5418-7616
+m NO4.8 N 85 Gabriela523686_da_Silva 2560-6321
+m NO4.8 S 85 Caio_da_Silva523686 6239-5063
+q 2290.0 880.0 100.0 60.0 NO4.9
+e NO4.9 O 20 loja_de_brinquedos E1-NO4.9 2390-5532
+e NO4.9 O 45 petshop E2-NO4.9 8426-4660
+e NO4.9 O 80 pastelaria E3-NO4.9 2241-7480
+e NO4.9 L 20 imobiliaria E4-NO4.9 3039-691
+e NO4.9 L 45 cafeteria E5-NO4.9 6975-2701
+e NO4.9 L 80 vidracaria E6-NO4.9 9660-7863
+m NO4.9 N 20 Berta534511_da_Silva 4357-8438
+m NO4.9 S 20 Bernardo_da_Silva534511 9795-6211
+m NO4.9 N 25 Rutger303272_da_Silva 8499-5532
+m NO4.9 S 25 Eduardo_da_Silva303272 3164-5022
+m NO4.9 N 35 Camila589291_da_Silva 1199-6993
+m NO4.9 S 35 Fernanda_da_Silva589291 9927-661
+m NO4.9 N 45 Debora450593_da_Silva 8186-1792
+m NO4.9 S 45 Laura_da_Silva450593 6879-7761
+m NO4.9 N 55 Isis177785_da_Silva 9173-811
+m NO4.9 S 55 Larissa_da_Silva177785 4718-2743
+m NO4.9 N 70 Mariana1466_da_Silva 1734-3126
+m NO4.9 S 70 Luiz_Felipe_da_Silva1466 5726-9510
+m NO4.9 N 85 Melissa149763_da_Silva 6428-6510
+m NO4.9 S 85 Daniel_da_Silva149763 4588-5494
+q 2400.0 880.0 100.0 60.0 NO4.10
+h HN-NO4.10 2450.0 940.0
+h HL-NO4.10 2400.0 910.0
+h HS-NO4.10 2450.0 880.0
+h HO-NO4.10 2500.0 910.0
+e NO4.10 O 20 clinica E1-NO4.10 1711-7662
+e NO4.10 O 45 banco E2-NO4.10 1135-3068
+e NO4.10 O 80 sorveteria E3-NO4.10 7552-333
+e NO4.10 L 20 drogaria E4-NO4.10 9179-4222
+e NO4.10 L 45 borracharia E5-NO4.10 2299-7987
+e NO4.10 L 80 cabeleleiro E6-NO4.10 8319-840
+m NO4.10 N 20 Melissa95274_da_Silva 5286-7505
+m NO4.10 S 20 Carlos_Eduardo_da_Silva95274 6925-9030
+m NO4.10 N 25 Ursula142341_da_Silva 8607-5245
+m NO4.10 S 25 Iara_da_Silva142341 8410-7656
+m NO4.10 N 35 Ursula229349_da_Silva 2293-8530
+m NO4.10 S 35 Luiz_Felipe_da_Silva229349 7108-6302
+m NO4.10 N 45 Ursula198501_da_Silva 1252-5350
+m NO4.10 S 45 Rafael_da_Silva198501 4472-743
+m NO4.10 N 55 Heidi191218_da_Silva 2912-404
+m NO4.10 S 55 Rafael_da_Silva191218 6758-6514
+m NO4.10 N 70 Bruno130802_da_Silva 9119-1628
+m NO4.10 S 70 Brunswichk_da_Silva130802 7854-9613
+m NO4.10 N 85 Caio706310_da_Silva 5079-8237
+m NO4.10 S 85 Sara_da_Silva706310 6153-2108
+q 1410.0 950.0 100.0 60.0 NO5.1
+e NO5.1 O 20 tabacaria E1-NO5.1 3478-9629
+e NO5.1 O 45 sapataria E2-NO5.1 5954-1314
+e NO5.1 O 80 serralheria E3-NO5.1 5819-9096
+e NO5.1 L 20 alfaiataria E4-NO5.1 4377-4812
+e NO5.1 L 45 lava_rapido E5-NO5.1 8937-8
+e NO5.1 L 80 atacadista E6-NO5.1 4555-5016
+m NO5.1 N 20 Bernardo167221_da_Silva 1329-8586
+m NO5.1 S 20 Fernanda_da_Silva167221 2824-550
+m NO5.1 N 25 Gabriela166285_da_Silva 8459-2630
+m NO5.1 S 25 Amanda_da_Silva166285 3999-8115
+m NO5.1 N 35 Josefa355067_da_Silva 4083-1947
+m NO5.1 S 35 Melissa_da_Silva355067 3882-2352
+m NO5.1 N 45 Josefa608260_da_Silva 5035-8529
+m NO5.1 S 45 Micaela_da_Silva608260 5034-9612
+m NO5.1 N 55 Karina315064_da_Silva 1360-1702
+m NO5.1 S 55 Clara_da_Silva315064 6058-6502
+m NO5.1 N 70 Antonio354996_da_Silva 4287-2197
+m NO5.1 S 70 Tiago_da_Silva354996 2644-9869
+m NO5.1 N 85 Luiz_Felipe628149_da_Silva 6423-6814
+m NO5.1 S 85 Berta_da_Silva628149 3602-3853
+q 1520.0 950.0 100.0 60.0 NO5.2
+h HN-NO5.2 1570.0 1010.0
+h HL-NO5.2 1520.0 980.0
+h HS-NO5.2 1570.0 950.0
+h HO-NO5.2 1620.0 980.0
+e NO5.2 O 20 livraria E1-NO5.2 1017-1781
+e NO5.2 O 45 banco E2-NO5.2 6733-7402
+e NO5.2 O 80 sapataria E3-NO5.2 9366-2526
+e NO5.2 L 20 imobiliaria E4-NO5.2 4839-46
+e NO5.2 L 45 acougue E5-NO5.2 5608-8803
+e NO5.2 L 80 xerox E6-NO5.2 1076-1903
+m NO5.2 N 20 Ursula642255_da_Silva 6601-8666
+m NO5.2 S 20 Pedro Henrique_da_Silva642255 3169-6052
+m NO5.2 N 25 Melissa450671_da_Silva 8157-560
+m NO5.2 S 25 Gabriel_da_Silva450671 2257-1804
+m NO5.2 N 35 Paulo25568_da_Silva 1580-4074
+m NO5.2 S 35 Nicole_da_Silva25568 3501-3943
+m NO5.2 N 45 Joana9019_da_Silva 8880-1864
+m NO5.2 S 45 Iara_da_Silva9019 2504-9475
+m NO5.2 N 55 Marina259781_da_Silva 8775-8468
+m NO5.2 S 55 Joana_da_Silva259781 6758-8116
+m NO5.2 N 70 Bruno67664_da_Silva 8167-2181
+m NO5.2 S 70 Miguel_da_Silva67664 4036-3758
+m NO5.2 N 85 Enzo66153_da_Silva 8292-7199
+m NO5.2 S 85 Ana_da_Silva66153 1202-9487
+q 1630.0 950.0 100.0 60.0 NO5.3
+e NO5.3 O 20 academia E1-NO5.3 9905-3901
+e NO5.3 O 45 taberna E2-NO5.3 4726-5877
+e NO5.3 O 80 hipermercado E3-NO5.3 2208-9763
+e NO5.3 L 20 bazar E4-NO5.3 3202-4285
+e NO5.3 L 45 funeraria E5-NO5.3 4515-2275
+e NO5.3 L 80 quitanda E6-NO5.3 3643-2506
+m NO5.3 N 20 Josefa2737_da_Silva 9971-1956
+m NO5.3 S 20 Caio_da_Silva2737 9476-2259
+m NO5.3 N 25 Caio957582_da_Silva 3796-9217
+m NO5.3 S 25 Melissa_da_Silva957582 7805-3164
+m NO5.3 N 35 Ursula570331_da_Silva 7168-8269
+m NO5.3 S 35 Carlos_Eduardo_da_Silva570331 1557-5948
+m NO5.3 N 45 Francisco742593_da_Silva 8694-1772
+m NO5.3 S 45 Tiago_da_Silva742593 8782-3337
+m NO5.3 N 55 Carlos_Eduardo203184_da_Silva 9660-8219
+m NO5.3 S 55 Bianca_da_Silva203184 3958-6105
+m NO5.3 N 70 Iara474625_da_Silva 8727-9756
+m NO5.3 S 70 Rafael_da_Silva474625 7233-1405
+m NO5.3 N 85 Helio934376_da_Silva 2812-5503
+m NO5.3 S 85 Ursula_da_Silva934376 3774-3818
+q 1740.0 950.0 100.0 60.0 NO5.4
+h HN-NO5.4 1790.0 1010.0
+h HL-NO5.4 1740.0 980.0
+e NO5.4 O 20 banco_de_jornal E1-NO5.4 7605-6193
+e NO5.4 O 45 antiquario E2-NO5.4 7617-3517
+e NO5.4 O 80 marcenaria E3-NO5.4 9942-46
+e NO5.4 L 20 bricabraque E4-NO5.4 6291-9259
+e NO5.4 L 45 imobiliaria E5-NO5.4 2368-5241
+e NO5.4 L 80 pastelaria E6-NO5.4 9616-172
+m NO5.4 N 20 Miguel88455_da_Silva 2863-5986
+m NO5.4 S 20 Silvio_da_Silva88455 4243-7493
+m NO5.4 N 25 Silene283294_da_Silva 1896-893
+m NO5.4 S 25 Debora_da_Silva283294 9337-9209
+m NO5.4 N 35 Bruno88145_da_Silva 2583-2973
+m NO5.4 S 35 Gabriel_da_Silva88145 3721-5612
+m NO5.4 N 45 Debora29992_da_Silva 3500-4234
+m NO5.4 S 45 Pedro_da_Silva29992 4902-2036
+m NO5.4 N 55 Mariana762581_da_Silva 8284-1988
+m NO5.4 S 55 Gabriel_da_Silva762581 9761-2758
+m NO5.4 N 70 Silvio882387_da_Silva 7861-9550
+m NO5.4 S 70 Bianca_da_Silva882387 8298-5519
+m NO5.4 N 85 Miguel890143_da_Silva 1583-1477
+m NO5.4 S 85 Iara_da_Silva890143 7464-4070
+q 1850.0 950.0 100.0 60.0 NO5.5
+e NO5.5 O 20 material_construcao E1-NO5.5 1284-9078
+e NO5.5 O 45 grafica E2-NO5.5 1430-3563
+e NO5.5 O 80 academia E3-NO5.5 6140-3507
+e NO5.5 L 20 petshop E4-NO5.5 6831-8859
+e NO5.5 L 45 mercado_municipal E5-NO5.5 4393-4039
+e NO5.5 L 80 emporio E6-NO5.5 4951-7737
+m NO5.5 N 20 Heidi432534_da_Silva 2619-4990
+m NO5.5 S 20 Sara_da_Silva432534 9308-7337
+m NO5.5 N 25 Francisco171352_da_Silva 1156-8788
+m NO5.5 S 25 Micaela_da_Silva171352 8728-2125
+m NO5.5 N 35 Nadir699330_da_Silva 7270-5353
+m NO5.5 S 35 Mateus_da_Silva699330 6822-3475
+m NO5.5 N 45 Artur718740_da_Silva 4356-5520
+m NO5.5 S 45 Jose_da_Silva718740 4977-316
+m NO5.5 N 55 Artur905023_da_Silva 5583-6927
+m NO5.5 S 55 Mateus_da_Silva905023 4044-4834
+m NO5.5 N 70 Paulo601732_da_Silva 5666-8573
+m NO5.5 S 70 Eduardo_da_Silva601732 5343-3354
+m NO5.5 N 85 Joana279764_da_Silva 3391-3035
+m NO5.5 S 85 Amanda_da_Silva279764 5601-2637
+q 1960.0 950.0 100.0 60.0 NO5.6
+h HN-NO5.6 2010.0 1010.0
+h HL-NO5.6 1960.0 980.0
+h HS-NO5.6 2010.0 950.0
+h HO-NO5.6 2060.0 980.0
+e NO5.6 O 20 xerox E1-NO5.6 1936-4364
+e NO5.6 O 45 loja_de_brinquedos E2-NO5.6 4308-2392
+e NO5.6 O 80 pastelaria E3-NO5.6 5695-1702
+e NO5.6 L 20 agencia_de_viagem E4-NO5.6 8923-8100
+e NO5.6 L 45 emporio E5-NO5.6 3418-4200
+e NO5.6 L 80 atacadista E6-NO5.6 9160-6094
+m NO5.6 N 20 Antonio4929_da_Silva 4627-2872
+m NO5.6 S 20 Silene_da_Silva4929 2201-9621
+m NO5.6 N 25 Pedro Henrique648616_da_Silva 6367-113
+m NO5.6 S 25 Rafael_da_Silva648616 3552-374
+m NO5.6 N 35 Enzo949886_da_Silva 5977-6105
+m NO5.6 S 35 Larissa_da_Silva949886 7056-1217
+m NO5.6 N 45 Maria339014_da_Silva 5448-4133
+m NO5.6 S 45 Nadir_da_Silva339014 9548-3993
+m NO5.6 N 55 Josefa55125_da_Silva 9144-7991
+m NO5.6 S 55 Bernardo_da_Silva55125 2844-2153
+m NO5.6 N 70 Micaela619373_da_Silva 4448-945
+m NO5.6 S 70 Eduardo_da_Silva619373 1897-591
+m NO5.6 N 85 Fernanda161365_da_Silva 1876-7558
+m NO5.6 S 85 Enzo_da_Silva161365 4407-4738
+q 2070.0 950.0 100.0 60.0 NO5.7
+t RB-NO5.7 2120.0 980.0
+h HN-NO5.7 2120.0 1010.0
+h HL-NO5.7 2070.0 980.0
+h HS-NO5.7 2120.0 950.0
+h HO-NO5.7 2170.0 980.0
+e NO5.7 O 20 borracharia E1-NO5.7 4833-5529
+e NO5.7 O 45 otica E2-NO5.7 8006-8731
+e NO5.7 O 80 sorveteria E3-NO5.7 3350-3082
+e NO5.7 L 20 clinica E4-NO5.7 5181-5074
+e NO5.7 L 45 mercearia E5-NO5.7 1897-3109
+e NO5.7 L 80 cinema E6-NO5.7 1868-891
+m NO5.7 N 20 Silene415746_da_Silva 2954-5724
+m NO5.7 S 20 Bernardo_da_Silva415746 1981-1279
+m NO5.7 N 25 Miguel255818_da_Silva 1881-3837
+m NO5.7 S 25 Caio_da_Silva255818 8186-9431
+m NO5.7 N 35 Benjamim119113_da_Silva 8054-3267
+m NO5.7 S 35 Gabriela_da_Silva119113 3101-7462
+m NO5.7 N 45 Heidi592081_da_Silva 1715-8585
+m NO5.7 S 45 Antonio_da_Silva592081 8336-6043
+m NO5.7 N 55 Silvio617533_da_Silva 7618-3843
+m NO5.7 S 55 Josefa_da_Silva617533 9973-6654
+m NO5.7 N 70 Bianca933381_da_Silva 1717-8409
+m NO5.7 S 70 Henrique_da_Silva933381 1198-1840
+m NO5.7 N 85 Beatriz300419_da_Silva 2552-5312
+m NO5.7 S 85 Catarina_da_Silva300419 2839-8203
+q 2180.0 950.0 100.0 60.0 NO5.8
+t RB-NO5.8 2230.0 980.0
+e NO5.8 O 20 mercearia E1-NO5.8 5806-4718
+e NO5.8 O 45 xerox E2-NO5.8 6139-4881
+e NO5.8 O 80 oficina_mecanica E3-NO5.8 2766-2613
+e NO5.8 L 20 marcenaria E4-NO5.8 4617-3961
+e NO5.8 L 45 oficina_mecanica E5-NO5.8 2330-7876
+e NO5.8 L 80 mercado_municipal E6-NO5.8 1122-6094
+m NO5.8 N 20 Pedro Henrique748513_da_Silva 4774-1849
+m NO5.8 S 20 Melissa_da_Silva748513 8870-5579
+m NO5.8 N 25 Carlos_Eduardo646473_da_Silva 4544-3011
+m NO5.8 S 25 Ursula_da_Silva646473 1531-1412
+m NO5.8 N 35 Joao989956_da_Silva 6727-2009
+m NO5.8 S 35 Enzo_da_Silva989956 3761-6681
+m NO5.8 N 45 Iara727862_da_Silva 6331-6655
+m NO5.8 S 45 Mateus_da_Silva727862 1289-4233
+m NO5.8 N 55 Josefa7770_da_Silva 7196-9123
+m NO5.8 S 55 Joao_da_Silva7770 7896-28
+m NO5.8 N 70 Catarina985298_da_Silva 3634-5084
+m NO5.8 S 70 Luiz_Felipe_da_Silva985298 5494-6256
+m NO5.8 N 85 Joao934830_da_Silva 9983-3768
+m NO5.8 S 85 Eduardo_da_Silva934830 8120-3970
+q 2290.0 950.0 100.0 60.0 NO5.9
+h HN-NO5.9 2340.0 1010.0
+h HL-NO5.9 2290.0 980.0
+e NO5.9 O 20 loja_de_brinquedos E1-NO5.9 7144-6649
+e NO5.9 O 45 hipermercado E2-NO5.9 4366-3810
+e NO5.9 O 80 conservatorio_musical E3-NO5.9 8528-5205
+e NO5.9 L 20 sapataria E4-NO5.9 6166-8729
+e NO5.9 L 45 drogaria E5-NO5.9 9563-6355
+e NO5.9 L 80 farmacia E6-NO5.9 8657-2057
+m NO5.9 N 20 Mateus663980_da_Silva 2148-9121
+m NO5.9 S 20 Josefa_da_Silva663980 3981-3616
+m NO5.9 N 25 Ursula269503_da_Silva 5383-5514
+m NO5.9 S 25 Artur_da_Silva269503 4237-8808
+m NO5.9 N 35 Beatriz752149_da_Silva 6887-2910
+m NO5.9 S 35 Larissa_da_Silva752149 2660-5622
+m NO5.9 N 45 Josefa866292_da_Silva 3156-38
+m NO5.9 S 45 Rita_da_Silva866292 3801-6937
+m NO5.9 N 55 Artur128773_da_Silva 1414-3922
+m NO5.9 S 55 Caio_da_Silva128773 8447-7905
+m NO5.9 N 70 Melissa952164_da_Silva 6856-1490
+m NO5.9 S 70 Amanda_da_Silva952164 4812-2819
+m NO5.9 N 85 Brunswichk166136_da_Silva 8068-1577
+m NO5.9 S 85 Clara_da_Silva166136 8138-9137
+q 2400.0 950.0 100.0 60.0 NO5.10
+e NO5.10 O 20 pastelaria E1-NO5.10 5464-8567
+e NO5.10 O 45 drogaria E2-NO5.10 2744-2067
+e NO5.10 O 80 banco E3-NO5.10 3806-3046
+e NO5.10 L 20 escola_idiomas E4-NO5.10 8013-3708
+e NO5.10 L 45 emporio E5-NO5.10 4384-5134
+e NO5.10 L 80 casa_noturna E6-NO5.10 3299-1603
+m NO5.10 N 20 Bernardo881546_da_Silva 9059-5945
+m NO5.10 S 20 Carlos_Eduardo_da_Silva881546 1576-9443
+m NO5.10 N 25 Pedro441106_da_Silva 3036-4486
+m NO5.10 S 25 Karina_da_Silva441106 6926-7606
+m NO5.10 N 35 Micaela732604_da_Silva 9604-6268
+m NO5.10 S 35 Bianca_da_Silva732604 1641-5653
+m NO5.10 N 45 Bernardo697050_da_Silva 7956-4700
+m NO5.10 S 45 Camila_da_Silva697050 7737-3931
+m NO5.10 N 55 Catarina998666_da_Silva 6615-2376
+m NO5.10 S 55 Rutger_da_Silva998666 2137-9546
+m NO5.10 N 70 Ana254616_da_Silva 6248-2241
+m NO5.10 S 70 Berta_da_Silva254616 7206-7911
+m NO5.10 N 85 Camila311141_da_Silva 3787-5859
+m NO5.10 S 85 Carlos_Eduardo_da_Silva311141 6432-411
+q 1410.0 1020.0 100.0 60.0 NO6.1
+h HN-NO6.1 1460.0 1080.0
+h HL-NO6.1 1410.0 1050.0
+e NO6.1 O 20 loja_de_brinquedos E1-NO6.1 2888-5326
+e NO6.1 O 45 supermercado E2-NO6.1 5443-4675
+e NO6.1 O 80 supermercado E3-NO6.1 3780-6473
+e NO6.1 L 20 otica E4-NO6.1 3277-7543
+e NO6.1 L 45 hipermercado E5-NO6.1 5414-8400
+e NO6.1 L 80 bar E6-NO6.1 9583-8763
+m NO6.1 N 20 Henrique382475_da_Silva 6109-6115
+m NO6.1 S 20 Ana_da_Silva382475 4178-3865
+m NO6.1 N 25 Beatriz607300_da_Silva 3156-8263
+m NO6.1 S 25 Luiz_Felipe_da_Silva607300 2004-8393
+m NO6.1 N 35 Olavo90584_da_Silva 5597-3541
+m NO6.1 S 35 Ana_da_Silva90584 7001-2152
+m NO6.1 N 45 Berta838699_da_Silva 5985-3913
+m NO6.1 S 45 Rafael_da_Silva838699 4018-4162
+m NO6.1 N 55 Daniel788556_da_Silva 6490-6393
+m NO6.1 S 55 Tais_da_Silva788556 6054-8898
+m NO6.1 N 70 Henrique920557_da_Silva 1192-8315
+m NO6.1 S 70 Rafael_da_Silva920557 8408-6542
+m NO6.1 N 85 Rita908724_da_Silva 6771-6173
+m NO6.1 S 85 Daniel_da_Silva908724 5650-565
+q 1520.0 1020.0 100.0 60.0 NO6.2
+h HN-NO6.2 1570.0 1080.0
+h HL-NO6.2 1520.0 1050.0
+h HS-NO6.2 1570.0 1020.0
+h HO-NO6.2 1620.0 1050.0
+e NO6.2 O 20 bricabraque E1-NO6.2 2743-1174
+e NO6.2 O 45 loja E2-NO6.2 3035-365
+e NO6.2 O 80 sebo E3-NO6.2 2864-3756
+e NO6.2 L 20 bazar E4-NO6.2 2722-911
+e NO6.2 L 45 escola_bale E5-NO6.2 3222-5065
+e NO6.2 L 80 agencia_de_viagem E6-NO6.2 4268-4302
+m NO6.2 N 20 Debora762006_da_Silva 2661-4438
+m NO6.2 S 20 Antonio_da_Silva762006 3198-9589
+m NO6.2 N 25 Francisco242305_da_Silva 7040-424
+m NO6.2 S 25 Joao_da_Silva242305 5213-3083
+m NO6.2 N 35 Mariana129855_da_Silva 4675-728
+m NO6.2 S 35 Beatriz_da_Silva129855 8281-2774
+m NO6.2 N 45 Benjamim443561_da_Silva 5296-6785
+m NO6.2 S 45 Ursula_da_Silva443561 3111-5190
+m NO6.2 N 55 Catarina385656_da_Silva 9225-2454
+m NO6.2 S 55 Francisco_da_Silva385656 3287-7229
+m NO6.2 N 70 Heidi621716_da_Silva 9575-5185
+m NO6.2 S 70 Benjamim_da_Silva621716 7535-6261
+m NO6.2 N 85 Heidi91416_da_Silva 2599-704
+m NO6.2 S 85 Tiago_da_Silva91416 7917-717
+q 1630.0 1020.0 100.0 60.0 NO6.3
+h HN-NO6.3 1680.0 1080.0
+h HL-NO6.3 1630.0 1050.0
+h HS-NO6.3 1680.0 1020.0
+h HO-NO6.3 1730.0 1050.0
+e NO6.3 O 20 supermercado E1-NO6.3 4557-9429
+e NO6.3 O 45 farmacia E2-NO6.3 9641-8926
+e NO6.3 O 80 loja_de_departamento E3-NO6.3 9602-8725
+e NO6.3 L 20 borracharia E4-NO6.3 8481-9721
+e NO6.3 L 45 sapataria E5-NO6.3 6941-497
+e NO6.3 L 80 xerox E6-NO6.3 3453-4701
+m NO6.3 N 20 Berta144289_da_Silva 7662-515
+m NO6.3 S 20 Iara_da_Silva144289 7770-9707
+m NO6.3 N 25 Bruno510976_da_Silva 9464-5886
+m NO6.3 S 25 Pedro_da_Silva510976 2614-7616
+m NO6.3 N 35 Sara931483_da_Silva 7333-5838
+m NO6.3 S 35 Ursula_da_Silva931483 3813-7652
+m NO6.3 N 45 Camila713276_da_Silva 8493-6469
+m NO6.3 S 45 Silene_da_Silva713276 7636-2272
+m NO6.3 N 55 Rita898046_da_Silva 3140-4624
+m NO6.3 S 55 Maria_da_Silva898046 3309-9577
+m NO6.3 N 70 Gabriela920553_da_Silva 9954-796
+m NO6.3 S 70 Silene_da_Silva920553 7516-7539
+m NO6.3 N 85 Isis264604_da_Silva 1183-5848
+m NO6.3 S 85 Laura_da_Silva264604 6057-4931
+q 1740.0 1020.0 100.0 60.0 NO6.4
+t RB-NO6.4 1790.0 1050.0
+h HN-NO6.4 1790.0 1080.0
+h HL-NO6.4 1740.0 1050.0
+h HS-NO6.4 1790.0 1020.0
+h HO-NO6.4 1840.0 1050.0
+e NO6.4 O 20 academia E1-NO6.4 2454-9080
+e NO6.4 O 45 acougue E2-NO6.4 1932-2406
+e NO6.4 O 80 escola_idiomas E3-NO6.4 3667-7548
+e NO6.4 L 20 cafeteria E4-NO6.4 4721-2049
+e NO6.4 L 45 mercearia E5-NO6.4 1451-7546
+e NO6.4 L 80 sapataria E6-NO6.4 1105-3339
+m NO6.4 N 20 Beatriz874058_da_Silva 8072-1012
+m NO6.4 S 20 Rutger_da_Silva874058 9079-6352
+m NO6.4 N 25 Bianca190225_da_Silva 7546-1292
+m NO6.4 S 25 Debora_da_Silva190225 2432-1346
+m NO6.4 N 35 Laura306781_da_Silva 6032-8932
+m NO6.4 S 35 Helio_da_Silva306781 9084-2685
+m NO6.4 N 45 Ana342965_da_Silva 7852-7756
+m NO6.4 S 45 Francisco_da_Silva342965 9119-3489
+m NO6.4 N 55 Rafael891133_da_Silva 9040-8903
+m NO6.4 S 55 Helio_da_Silva891133 7046-1908
+m NO6.4 N 70 Rutger602172_da_Silva 5797-9840
+m NO6.4 S 70 Rafael_da_Silva602172 2263-8472
+m NO6.4 N 85 Francisco59266_da_Silva 7429-9363
+m NO6.4 S 85 Joana_da_Silva59266 7626-9877
+q 1850.0 1020.0 100.0 60.0 NO6.5
+t RB-NO6.5 1900.0 1050.0
+e NO6.5 O 20 banco E1-NO6.5 3689-9996
+e NO6.5 O 45 joalheria E2-NO6.5 4855-9575
+e NO6.5 O 80 tabacaria E3-NO6.5 1159-311
+e NO6.5 L 20 funeraria E4-NO6.5 1877-7358
+e NO6.5 L 45 loja_de_departamento E5-NO6.5 9395-9796
+e NO6.5 L 80 mercearia E6-NO6.5 7210-6244
+m NO6.5 N 20 Fernanda547008_da_Silva 6769-6287
+m NO6.5 S 20 Silvio_da_Silva547008 6734-5998
+m NO6.5 N 25 Artur94502_da_Silva 3633-3475
+m NO6.5 S 25 Josefa_da_Silva94502 1992-7352
+m NO6.5 N 35 Debora982739_da_Silva 1904-8103
+m NO6.5 S 35 Pedro Henrique_da_Silva982739 3843-5782
+m NO6.5 N 45 Francisco417199_da_Silva 9409-2951
+m NO6.5 S 45 Josefa_da_Silva417199 3210-1993
+m NO6.5 N 55 Zelia836856_da_Silva 8796-1754
+m NO6.5 S 55 Clara_da_Silva836856 5912-5762
+m NO6.5 N 70 Silvio227200_da_Silva 5330-9946
+m NO6.5 S 70 Catarina_da_Silva227200 5376-6074
+m NO6.5 N 85 Flavio343909_da_Silva 2898-7314
+m NO6.5 S 85 Tiago_da_Silva343909 7351-2370
+q 1960.0 1020.0 100.0 60.0 NO6.6
+h HN-NO6.6 2010.0 1080.0
+h HL-NO6.6 1960.0 1050.0
+e NO6.6 O 20 loja_de_departamento E1-NO6.6 5577-9687
+e NO6.6 O 45 papelaria E2-NO6.6 5552-4146
+e NO6.6 O 80 galeria_de_arte E3-NO6.6 1665-4514
+e NO6.6 L 20 serralheria E4-NO6.6 3132-4416
+e NO6.6 L 45 funeraria E5-NO6.6 5719-8223
+e NO6.6 L 80 banco_de_jornal E6-NO6.6 2695-3095
+m NO6.6 N 20 Debora82330_da_Silva 6917-1966
+m NO6.6 S 20 Enzo_da_Silva82330 4231-7081
+m NO6.6 N 25 Rutger438866_da_Silva 1360-1210
+m NO6.6 S 25 Jose_da_Silva438866 5853-2593
+m NO6.6 N 35 Brunswichk38275_da_Silva 9032-7696
+m NO6.6 S 35 Clara_da_Silva38275 3844-741
+m NO6.6 N 45 Melissa32869_da_Silva 1412-1914
+m NO6.6 S 45 Caio_da_Silva32869 3856-1573
+m NO6.6 N 55 Amanda72397_da_Silva 3657-8986
+m NO6.6 S 55 Zelia_da_Silva72397 3588-193
+m NO6.6 N 70 Clara545197_da_Silva 4932-4427
+m NO6.6 S 70 Mateus_da_Silva545197 5275-8681
+m NO6.6 N 85 Antonio192233_da_Silva 3294-7739
+m NO6.6 S 85 Beatriz_da_Silva192233 8858-4366
+q 2070.0 1020.0 100.0 60.0 NO6.7
+e NO6.7 O 20 bazar E1-NO6.7 3772-4362
+e NO6.7 O 45 bicicletaria E2-NO6.7 1988-7644
+e NO6.7 O 80 quitanda E3-NO6.7 6008-9397
+e NO6.7 L 20 agencia_de_viagem E4-NO6.7 7317-9441
+e NO6.7 L 45 taberna E5-NO6.7 9365-4725
+e NO6.7 L 80 lava_rapido E6-NO6.7 1094-6540
+m NO6.7 N 20 Bernardo367201_da_Silva 3922-7393
+m NO6.7 S 20 Caio_da_Silva367201 7293-7210
+m NO6.7 N 25 Mia893323_da_Silva 7485-7854
+m NO6.7 S 25 Clara_da_Silva893323 3329-558
+m NO6.7 N 35 Ursula642513_da_Silva 8732-9521
+m NO6.7 S 35 Carlos_Eduardo_da_Silva642513 5859-8430
+m NO6.7 N 45 Berta898873_da_Silva 2677-7228
+m NO6.7 S 45 Berta_da_Silva898873 4891-1412
+m NO6.7 N 55 Enzo560414_da_Silva 6626-1236
+m NO6.7 S 55 Luiz_Felipe_da_Silva560414 7786-8066
+m NO6.7 N 70 Rafael460594_da_Silva 2578-9839
+m NO6.7 S 70 Sara_da_Silva460594 1543-1745
+m NO6.7 N 85 Camila664320_da_Silva 5517-5395
+m NO6.7 S 85 Rita_da_Silva664320 9738-6020
+q 2180.0 1020.0 100.0 60.0 NO6.8
+e NO6.8 O 20 hipermercado E1-NO6.8 9067-4395
+e NO6.8 O 45 otica E2-NO6.8 3735-1527
+e NO6.8 O 80 mercearia E3-NO6.8 5043-4299
+e NO6.8 L 20 sapataria E4-NO6.8 6144-7893
+e NO6.8 L 45 escola_idiomas E5-NO6.8 7894-7610
+e NO6.8 L 80 marcenaria E6-NO6.8 3528-6733
+m NO6.8 N 20 Camila702047_da_Silva 5580-7865
+m NO6.8 S 20 Joao_da_Silva702047 5395-1237
+m NO6.8 N 25 Nicole326230_da_Silva 5866-8867
+m NO6.8 S 25 Nadir_da_Silva326230 6060-2047
+m NO6.8 N 35 Melissa384193_da_Silva 5156-242
+m NO6.8 S 35 Mariana_da_Silva384193 9308-2852
+m NO6.8 N 45 Daniel100002_da_Silva 6379-3734
+m NO6.8 S 45 Gabriel_da_Silva100002 2884-5980
+m NO6.8 N 55 Henrique264550_da_Silva 1910-5862
+m NO6.8 S 55 Mariana_da_Silva264550 3906-4620
+m NO6.8 N 70 Paulo230290_da_Silva 3353-3545
+m NO6.8 S 70 Antonio_da_Silva230290 7039-4471
+m NO6.8 N 85 Bianca858379_da_Silva 6100-5924
+m NO6.8 S 85 Fernanda_da_Silva858379 3670-6948
+q 2290.0 1020.0 100.0 60.0 NO6.9
+e NO6.9 O 20 sorveteria E1-NO6.9 5745-4207
+e NO6.9 O 45 posto_de_abastecimento E2-NO6.9 2294-7952
+e NO6.9 O 80 taberna E3-NO6.9 8323-2655
+e NO6.9 L 20 gibeteria E4-NO6.9 4119-5327
+e NO6.9 L 45 bricabraque E5-NO6.9 2139-8276
+e NO6.9 L 80 papelaria E6-NO6.9 2934-1302
+m NO6.9 N 20 Caio306304_da_Silva 4166-306
+m NO6.9 S 20 Zelia_da_Silva306304 8792-728
+m NO6.9 N 25 Enzo80051_da_Silva 8353-3990
+m NO6.9 S 25 Camila_da_Silva80051 8402-8176
+m NO6.9 N 35 Henrique620862_da_Silva 1158-7437
+m NO6.9 S 35 Mia_da_Silva620862 8816-8722
+m NO6.9 N 45 Nadir37163_da_Silva 1389-5565
+m NO6.9 S 45 Jose_da_Silva37163 2526-1620
+m NO6.9 N 55 Miguel431070_da_Silva 2257-518
+m NO6.9 S 55 Carlos_Eduardo_da_Silva431070 4954-4576
+m NO6.9 N 70 Marina968660_da_Silva 4948-2083
+m NO6.9 S 70 Isis_da_Silva968660 1998-4421
+m NO6.9 N 85 Silene475160_da_Silva 1737-5692
+m NO6.9 S 85 Bianca_da_Silva475160 6080-6972aux->pass=1
+q 2400.0 1020.0 100.0 60.0 NO6.10
+e NO6.10 O 20 otica E1-NO6.10 5410-8980
+e NO6.10 O 45 sapataria E2-NO6.10 2791-739
+e NO6.10 O 80 loja E3-NO6.10 7064-8945
+e NO6.10 L 20 supermercado E4-NO6.10 7761-6135
+e NO6.10 L 45 loterica E5-NO6.10 8066-1038
+e NO6.10 L 80 cafeteria E6-NO6.10 6774-5679
+m NO6.10 N 20 Antonio952610_da_Silva 7644-2229
+m NO6.10 S 20 Tais_da_Silva952610 9337-8466
+m NO6.10 N 25 Mateus19545_da_Silva 1326-7999
+m NO6.10 S 25 Rita_da_Silva19545 7442-1909
+m NO6.10 N 35 Pedro320642_da_Silva 5096-2875
+m NO6.10 S 35 Nicole_da_Silva320642 7176-8287
+m NO6.10 N 45 Ana747912_da_Silva 7787-6689
+m NO6.10 S 45 Ursula_da_Silva747912 8624-7746
+m NO6.10 N 55 Sara65029_da_Silva 3435-3833
+m NO6.10 S 55 Rutger_da_Silva65029 2618-8446
+m NO6.10 N 70 Beatriz835402_da_Silva 5628-643
+m NO6.10 S 70 Larissa_da_Silva835402 1097-59
+m NO6.10 N 85 Silene933330_da_Silva 5976-9090
+m NO6.10 S 85 Flavio_da_Silva933330 2586-2743
+o 3
+ed? * [120.0 80.0 100.0 60.0]
+#
